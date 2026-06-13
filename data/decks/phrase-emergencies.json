@@ -1,0 +1,167 @@
+[
+  {
+    "id": "phrase-emergencies-167",
+    "type": "phrase",
+    "order": 23,
+    "category": "Emergencies",
+    "front": "ഞാൻ വഴി തെറ്റി",
+    "back": "I'm lost",
+    "transliteration": "nyaan vazhi thetti",
+    "meaning": "I'm lost",
+    "audioText": "ഞാൻ വഴി തെറ്റി"
+  },
+  {
+    "id": "phrase-emergencies-157",
+    "type": "phrase",
+    "order": 27,
+    "category": "Emergencies",
+    "front": "സഹായം!",
+    "back": "Help!",
+    "transliteration": "sahaayam!",
+    "meaning": "Help!",
+    "audioText": "സഹായം!"
+  },
+  {
+    "id": "phrase-emergencies-please-help-me",
+    "type": "phrase",
+    "order": 28,
+    "category": "Emergencies",
+    "front": "ദയവായി എന്നെ സഹായിക്കൂ",
+    "back": "Please help me",
+    "transliteration": "dayavayi enne sahayikku",
+    "meaning": "Please help me",
+    "audioText": "ദയവായി എന്നെ സഹായിക്കൂ"
+  },
+  {
+    "id": "phrase-emergencies-i-need-a-doctor",
+    "type": "phrase",
+    "order": 29,
+    "category": "Emergencies",
+    "front": "എനിക്ക് ഒരു ഡോക്ടറെ വേണം",
+    "back": "I need a doctor",
+    "transliteration": "enikku oru doctore venam",
+    "meaning": "I need a doctor",
+    "audioText": "എനിക്ക് ഒരു ഡോക്ടറെ വേണം"
+  },
+  {
+    "id": "phrase-emergencies-call-the-police",
+    "type": "phrase",
+    "order": 30,
+    "category": "Emergencies",
+    "front": "പോലീസിനെ വിളിക്കൂ",
+    "back": "Call the police",
+    "transliteration": "polisine vilikku",
+    "meaning": "Call the police",
+    "audioText": "പോലീസിനെ വിളിക്കൂ"
+  },
+  {
+    "id": "phrase-emergencies-this-is-urgent",
+    "type": "phrase",
+    "order": 31,
+    "category": "Emergencies",
+    "front": "ഇത് അടിയന്തിരമാണ്",
+    "back": "This is urgent",
+    "transliteration": "ithu adiyanthiramaanu",
+    "meaning": "This is urgent",
+    "audioText": "ഇത് അടിയന്തിരമാണ്"
+  },
+  {
+    "id": "phrase-emergencies-158",
+    "type": "phrase",
+    "order": 120,
+    "category": "Emergencies",
+    "front": "ഒരു അപകടം സംഭവിച്ചിരിക്കുന്നു.",
+    "back": "There's been an accident.",
+    "transliteration": "oru apakadam sambhavichirikkunnu.",
+    "meaning": "There's been an accident.",
+    "audioText": "ഒരു അപകടം സംഭവിച്ചിരിക്കുന്നു."
+  },
+  {
+    "id": "phrase-emergencies-159",
+    "type": "phrase",
+    "order": 121,
+    "category": "Emergencies",
+    "front": "കള്ളൻ!",
+    "back": "Thief!",
+    "transliteration": "kallan!",
+    "meaning": "Thief!",
+    "audioText": "കള്ളൻ!"
+  },
+  {
+    "id": "phrase-emergencies-160",
+    "type": "phrase",
+    "order": 122,
+    "category": "Emergencies",
+    "front": "തീ!",
+    "back": "Fire!",
+    "transliteration": "thee!",
+    "meaning": "Fire!",
+    "audioText": "തീ!"
+  },
+  {
+    "id": "phrase-emergencies-161",
+    "type": "phrase",
+    "order": 123,
+    "category": "Emergencies",
+    "front": "നിർത്തുക!",
+    "back": "Stop!",
+    "transliteration": "nirthuka!",
+    "meaning": "Stop!",
+    "audioText": "നിർത്തുക!"
+  },
+  {
+    "id": "phrase-emergencies-162",
+    "type": "phrase",
+    "order": 124,
+    "category": "Emergencies",
+    "front": "ഇതൊരു അടിയന്തര കാര്യമാണ്!",
+    "back": "It's an emergency!",
+    "transliteration": "itheaaru adiyanthara kaaryamaanu!",
+    "meaning": "It's an emergency!",
+    "audioText": "ഇതൊരു അടിയന്തര കാര്യമാണ്!"
+  },
+  {
+    "id": "phrase-emergencies-163",
+    "type": "phrase",
+    "order": 125,
+    "category": "Emergencies",
+    "front": "നിങ്ങൾക്ക് ഒരു പ്രഥമശുശ്രൂഷ കിറ്റ് ഉണ്ടോ?",
+    "back": "Do you have a first-aid kit?",
+    "transliteration": "ningalkku oru pradhamashusroosha kittu undo?",
+    "meaning": "Do you have a first-aid kit?",
+    "audioText": "നിങ്ങൾക്ക് ഒരു പ്രഥമശുശ്രൂഷ കിറ്റ് ഉണ്ടോ?"
+  },
+  {
+    "id": "phrase-emergencies-164",
+    "type": "phrase",
+    "order": 126,
+    "category": "Emergencies",
+    "front": "ഒരു ഡോക്ടറെ/പോലീസിനെ വിളിക്കുക!",
+    "back": "Call a doctor/police!",
+    "transliteration": "oru doctare/policine vilikkuka!",
+    "meaning": "Call a doctor/police!",
+    "audioText": "ഒരു ഡോക്ടറെ/പോലീസിനെ വിളിക്കുക!"
+  },
+  {
+    "id": "phrase-emergencies-165",
+    "type": "phrase",
+    "order": 127,
+    "category": "Emergencies",
+    "front": "ഒരു ആംബുലൻസ് വിളിക്കുക?",
+    "back": "Call an ambulance?",
+    "transliteration": "oru aambulans vilikkuka?",
+    "meaning": "Call an ambulance?",
+    "audioText": "ഒരു ആംബുലൻസ് വിളിക്കുക?"
+  },
+  {
+    "id": "phrase-emergencies-166",
+    "type": "phrase",
+    "order": 128,
+    "category": "Emergencies",
+    "front": "ദയവായി ഞങ്ങളെ/എന്നെ സഹായിക്കാമോ?",
+    "back": "Could you please help us/me?",
+    "transliteration": "dayavaayi njangale/enne sahaayikkaamo?",
+    "meaning": "Could you please help us/me?",
+    "audioText": "ദയവായി ഞങ്ങളെ/എന്നെ സഹായിക്കാമോ?"
+  }
+]

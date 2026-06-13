@@ -1,0 +1,222 @@
+[
+  {
+    "id": "phrase-home-staying-staying-with-locals-137",
+    "type": "phrase",
+    "order": 100,
+    "category": "Home Staying / Staying with Locals",
+    "front": "എനിക്ക് നിങ്ങളുടെ സ്ഥലത്ത് താമസിക്കാൻ കഴിയുമോ?",
+    "back": "Can I stay at your place?",
+    "transliteration": "enikku ningalude sthalathu thaamasikkan kazhiyumo?",
+    "meaning": "Can I stay at your place?",
+    "audioText": "എനിക്ക് നിങ്ങളുടെ സ്ഥലത്ത് താമസിക്കാൻ കഴിയുമോ?"
+  },
+  {
+    "id": "phrase-home-staying-staying-with-locals-138",
+    "type": "phrase",
+    "order": 101,
+    "category": "Home Staying / Staying with Locals",
+    "front": "എനിക്ക് സ്വന്തമായി സ്ലീപ്പിംഗ് ബാഗ് ഉണ്ട്.",
+    "back": "I have my own sleeping bag.",
+    "transliteration": "enikku svanthamaayi sleepping baag undu.",
+    "meaning": "I have my own sleeping bag.",
+    "audioText": "എനിക്ക് സ്വന്തമായി സ്ലീപ്പിംഗ് ബാഗ് ഉണ്ട്."
+  },
+  {
+    "id": "phrase-home-staying-staying-with-locals-139",
+    "type": "phrase",
+    "order": 102,
+    "category": "Home Staying / Staying with Locals",
+    "front": "എനിക്ക് ഭക്ഷണത്തിന് എന്തെങ്കിലും കൊണ്ടുവരാമോ?",
+    "back": "Can I bring anything for the meal?",
+    "transliteration": "enikku bhakshanathinu enthengilum konduvaraamo?",
+    "meaning": "Can I bring anything for the meal?",
+    "audioText": "എനിക്ക് ഭക്ഷണത്തിന് എന്തെങ്കിലും കൊണ്ടുവരാമോ?"
+  },
+  {
+    "id": "phrase-home-staying-staying-with-locals-140",
+    "type": "phrase",
+    "order": 103,
+    "category": "Home Staying / Staying with Locals",
+    "front": "എനിക്ക് വിഭവങ്ങൾ ചെയ്യാൻ കഴിയുമോ?",
+    "back": "Can I do the dishes?",
+    "transliteration": "enikku vibhavangal cheyyaan kazhiyumo?",
+    "meaning": "Can I do the dishes?",
+    "audioText": "എനിക്ക് വിഭവങ്ങൾ ചെയ്യാൻ കഴിയുമോ?"
+  },
+  {
+    "id": "phrase-home-staying-staying-with-locals-141",
+    "type": "phrase",
+    "order": 104,
+    "category": "Home Staying / Staying with Locals",
+    "front": "നിങ്ങളുടെ ഉപചാരത്തിനു നന്ദി.",
+    "back": "Thank you for your hospitality.",
+    "transliteration": "ningalude upachaarathinu nandi.",
+    "meaning": "Thank you for your hospitality.",
+    "audioText": "നിങ്ങളുടെ ഉപചാരത്തിനു നന്ദി."
+  },
+  {
+    "id": "phrase-home-staying-staying-with-locals-142",
+    "type": "phrase",
+    "order": 105,
+    "category": "Home Staying / Staying with Locals",
+    "front": "ഒരു സൂപ്പർമാർക്കറ്റ് എവിടെയാണ്?",
+    "back": "Where is a supermarket?",
+    "transliteration": "oru supermaarkketu evideyaanu?",
+    "meaning": "Where is a supermarket?",
+    "audioText": "ഒരു സൂപ്പർമാർക്കറ്റ് എവിടെയാണ്?"
+  },
+  {
+    "id": "phrase-home-staying-staying-with-locals-143",
+    "type": "phrase",
+    "order": 106,
+    "category": "Home Staying / Staying with Locals",
+    "front": "എനിക്ക് എവിടെ നിന്ന് വാങ്ങാനാകും ... ?",
+    "back": "Where can I buy ... ?",
+    "transliteration": "enikku evide ninnu vaangaanaakum ... ?",
+    "meaning": "Where can I buy ... ?",
+    "audioText": "എനിക്ക് എവിടെ നിന്ന് വാങ്ങാനാകും ... ?"
+  },
+  {
+    "id": "phrase-home-staying-staying-with-locals-144",
+    "type": "phrase",
+    "order": 107,
+    "category": "Home Staying / Staying with Locals",
+    "front": "ഞാൻ വാങ്ങാൻ ആഗ്രഹിക്കുന്നു ...",
+    "back": "I would like to buy ...",
+    "transliteration": "njaan vaangaan aagrahikkunnu ...",
+    "meaning": "I would like to buy ...",
+    "audioText": "ഞാൻ വാങ്ങാൻ ആഗ്രഹിക്കുന്നു ..."
+  },
+  {
+    "id": "phrase-home-staying-staying-with-locals-145",
+    "type": "phrase",
+    "order": 108,
+    "category": "Home Staying / Staying with Locals",
+    "front": "എത്രമാത്രമാണിത്?",
+    "back": "How much is it?",
+    "transliteration": "ethramaathramaanithu?",
+    "meaning": "How much is it?",
+    "audioText": "എത്രമാത്രമാണിത്?"
+  },
+  {
+    "id": "phrase-home-staying-staying-with-locals-146",
+    "type": "phrase",
+    "order": 109,
+    "category": "Home Staying / Staying with Locals",
+    "front": "വില എഴുതാമോ?",
+    "back": "Can you write down the price?",
+    "transliteration": "vila ezhuthaamo?",
+    "meaning": "Can you write down the price?",
+    "audioText": "വില എഴുതാമോ?"
+  },
+  {
+    "id": "phrase-home-staying-staying-with-locals-147",
+    "type": "phrase",
+    "order": 110,
+    "category": "Home Staying / Staying with Locals",
+    "front": "നിങ്ങൾ ക്രെഡിറ്റ്/ഡെബിറ്റ് കാർഡുകൾ സ്വീകരിക്കുമോ?",
+    "back": "Do you accept credit/debit cards?",
+    "transliteration": "ningal cradittu/debittu kaardukal sweekarikkumo?",
+    "meaning": "Do you accept credit/debit cards?",
+    "audioText": "നിങ്ങൾ ക്രെഡിറ്റ്/ഡെബിറ്റ് കാർഡുകൾ സ്വീകരിക്കുമോ?"
+  },
+  {
+    "id": "phrase-home-staying-staying-with-locals-148",
+    "type": "phrase",
+    "order": 111,
+    "category": "Home Staying / Staying with Locals",
+    "front": "നിങ്ങൾ ക്രിപ്‌റ്റോ കറൻസികൾ സ്വീകരിക്കുമോ?",
+    "back": "Do you accept crypto currencies?",
+    "transliteration": "ningal criptto karansikal sweekarikkumo?",
+    "meaning": "Do you accept crypto currencies?",
+    "audioText": "നിങ്ങൾ ക്രിപ്‌റ്റോ കറൻസികൾ സ്വീകരിക്കുമോ?"
+  },
+  {
+    "id": "phrase-home-staying-staying-with-locals-149",
+    "type": "phrase",
+    "order": 112,
+    "category": "Home Staying / Staying with Locals",
+    "front": "എനിക്ക് ഒരു ബാഗ് തരാമോ?",
+    "back": "Could I have a bag, please?",
+    "transliteration": "enikku oru baag tharaamo?",
+    "meaning": "Could I have a bag, please?",
+    "audioText": "എനിക്ക് ഒരു ബാഗ് തരാമോ?"
+  },
+  {
+    "id": "phrase-home-staying-staying-with-locals-150",
+    "type": "phrase",
+    "order": 113,
+    "category": "Home Staying / Staying with Locals",
+    "front": "എനിക്ക് ഒരു ബാഗ് ആവശ്യമില്ല, നന്ദി.",
+    "back": "I don't need a bag, thanks.",
+    "transliteration": "enikku oru baag aavashyamilla, nandi.",
+    "meaning": "I don't need a bag, thanks.",
+    "audioText": "എനിക്ക് ഒരു ബാഗ് ആവശ്യമില്ല, നന്ദി."
+  },
+  {
+    "id": "phrase-home-staying-staying-with-locals-151",
+    "type": "phrase",
+    "order": 114,
+    "category": "Home Staying / Staying with Locals",
+    "front": "എനിക്ക് ഒരു രസീത് തരാമോ?",
+    "back": "Could I have a receipt, please?",
+    "transliteration": "enikku oru raseethu tharaamo?",
+    "meaning": "Could I have a receipt, please?",
+    "audioText": "എനിക്ക് ഒരു രസീത് തരാമോ?"
+  },
+  {
+    "id": "phrase-home-staying-staying-with-locals-152",
+    "type": "phrase",
+    "order": 115,
+    "category": "Home Staying / Staying with Locals",
+    "front": "ദയവായി ഇത് തിരികെ നൽകാൻ ഞാൻ ആഗ്രഹിക്കുന്നു.",
+    "back": "I would like to return this, please.",
+    "transliteration": "dayavaayi ithu thirike nalkaan njaan aagrahikkunnu.",
+    "meaning": "I would like to return this, please.",
+    "audioText": "ദയവായി ഇത് തിരികെ നൽകാൻ ഞാൻ ആഗ്രഹിക്കുന്നു."
+  },
+  {
+    "id": "phrase-home-staying-staying-with-locals-153",
+    "type": "phrase",
+    "order": 116,
+    "category": "Home Staying / Staying with Locals",
+    "front": "എനിക്ക് എന്റെ പണം തിരികെ വേണം, ദയവായി.",
+    "back": "I would like my money back, please.",
+    "transliteration": "enikku ente panam thirike venam, dayavaayi.",
+    "meaning": "I would like my money back, please.",
+    "audioText": "എനിക്ക് എന്റെ പണം തിരികെ വേണം, ദയവായി."
+  },
+  {
+    "id": "phrase-home-staying-staying-with-locals-154",
+    "type": "phrase",
+    "order": 117,
+    "category": "Home Staying / Staying with Locals",
+    "front": "അത് വളരെ ചെലവേറിയതാണ്.",
+    "back": "That's too expensive.",
+    "transliteration": "athu valare chelaveriyathaanu.",
+    "meaning": "That's too expensive.",
+    "audioText": "അത് വളരെ ചെലവേറിയതാണ്."
+  },
+  {
+    "id": "phrase-home-staying-staying-with-locals-155",
+    "type": "phrase",
+    "order": 118,
+    "category": "Home Staying / Staying with Locals",
+    "front": "വില കുറയ്ക്കാമോ?",
+    "back": "Can you lower the price?",
+    "transliteration": "vila kuraykkaamo?",
+    "meaning": "Can you lower the price?",
+    "audioText": "വില കുറയ്ക്കാമോ?"
+  },
+  {
+    "id": "phrase-home-staying-staying-with-locals-156",
+    "type": "phrase",
+    "order": 119,
+    "category": "Home Staying / Staying with Locals",
+    "front": "ഞാൻ നിങ്ങൾക്ക് തരാം ...",
+    "back": "I will give you ...",
+    "transliteration": "njaan ningalkku tharaam ...",
+    "meaning": "I will give you ...",
+    "audioText": "ഞാൻ നിങ്ങൾക്ക് തരാം ..."
+  }
+]

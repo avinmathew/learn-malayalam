@@ -1,0 +1,86 @@
+[
+  {
+    "id": "vocab-flowers-rose",
+    "type": "vocab",
+    "order": 391,
+    "category": "Flowers",
+    "front": "രോജാ",
+    "back": "Rose",
+    "transliteration": "rōjā",
+    "meaning": "Rose",
+    "imagePath": "/vocab-images/flowers/rose.png",
+    "audioText": "രോജാ"
+  },
+  {
+    "id": "vocab-flowers-jasmine",
+    "type": "vocab",
+    "order": 392,
+    "category": "Flowers",
+    "front": "മല്ലി",
+    "back": "Jasmine",
+    "transliteration": "malli",
+    "meaning": "Jasmine",
+    "imagePath": "/vocab-images/flowers/jasmine.png",
+    "audioText": "മല്ലി"
+  },
+  {
+    "id": "vocab-flowers-lily",
+    "type": "vocab",
+    "order": 393,
+    "category": "Flowers",
+    "front": "ലില്ലി",
+    "back": "Lily",
+    "transliteration": "lilli",
+    "meaning": "Lily",
+    "imagePath": "/vocab-images/flowers/lily.png",
+    "audioText": "ലില്ലി"
+  },
+  {
+    "id": "vocab-flowers-sunflower",
+    "type": "vocab",
+    "order": 394,
+    "category": "Flowers",
+    "front": "സൂര്യകാന്തി",
+    "back": "Sunflower",
+    "transliteration": "sūryakānti",
+    "meaning": "Sunflower",
+    "imagePath": "/vocab-images/flowers/sunflower.png",
+    "audioText": "സൂര്യകാന്തി"
+  },
+  {
+    "id": "vocab-flowers-lotus",
+    "type": "vocab",
+    "order": 395,
+    "category": "Flowers",
+    "front": "താമര",
+    "back": "Lotus",
+    "transliteration": "tāmara",
+    "meaning": "Lotus",
+    "imagePath": "/vocab-images/flowers/lotus.png",
+    "audioText": "താമര"
+  },
+  {
+    "id": "vocab-flowers-marigold",
+    "type": "vocab",
+    "order": 396,
+    "category": "Flowers",
+    "front": "ജമന്തി",
+    "back": "Marigold",
+    "transliteration": "jāmanti",
+    "meaning": "Marigold",
+    "imagePath": "/vocab-images/flowers/marigold.png",
+    "audioText": "ജമന്തി"
+  },
+  {
+    "id": "vocab-flowers-hibiscus",
+    "type": "vocab",
+    "order": 397,
+    "category": "Flowers",
+    "front": "ചെമ്പരത്തി",
+    "back": "Hibiscus",
+    "transliteration": "cembaratti",
+    "meaning": "Hibiscus",
+    "imagePath": "/vocab-images/flowers/hibiscus.png",
+    "audioText": "ചെമ്പരത്തി"
+  }
+]

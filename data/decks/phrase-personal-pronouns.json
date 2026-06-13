@@ -1,0 +1,112 @@
+[
+  {
+    "id": "phrase-personal-pronouns-50",
+    "type": "phrase",
+    "order": 33,
+    "category": "Personal Pronouns",
+    "front": "ഞാന്‍",
+    "back": "I",
+    "transliteration": "njaan",
+    "meaning": "I",
+    "audioText": "ഞാന്‍"
+  },
+  {
+    "id": "phrase-personal-pronouns-51",
+    "type": "phrase",
+    "order": 34,
+    "category": "Personal Pronouns",
+    "front": "നീ",
+    "back": "You (singular)",
+    "transliteration": "nee",
+    "meaning": "You (singular)",
+    "audioText": "നീ"
+  },
+  {
+    "id": "phrase-personal-pronouns-52",
+    "type": "phrase",
+    "order": 35,
+    "category": "Personal Pronouns",
+    "front": "നിങ്ങള്‍",
+    "back": "You (plural / polite)",
+    "transliteration": "ningal",
+    "meaning": "You (plural / polite)",
+    "audioText": "നിങ്ങള്‍"
+  },
+  {
+    "id": "phrase-personal-pronouns-53",
+    "type": "phrase",
+    "order": 36,
+    "category": "Personal Pronouns",
+    "front": "അവന്‍",
+    "back": "He",
+    "transliteration": "avan",
+    "meaning": "He",
+    "audioText": "അവന്‍"
+  },
+  {
+    "id": "phrase-personal-pronouns-54",
+    "type": "phrase",
+    "order": 37,
+    "category": "Personal Pronouns",
+    "front": "അവള്‍",
+    "back": "She",
+    "transliteration": "aval",
+    "meaning": "She",
+    "audioText": "അവള്‍"
+  },
+  {
+    "id": "phrase-personal-pronouns-55",
+    "type": "phrase",
+    "order": 38,
+    "category": "Personal Pronouns",
+    "front": "അത്",
+    "back": "It (neutral)",
+    "transliteration": "athu",
+    "meaning": "It (neutral)",
+    "audioText": "അത്"
+  },
+  {
+    "id": "phrase-personal-pronouns-56",
+    "type": "phrase",
+    "order": 39,
+    "category": "Personal Pronouns",
+    "front": "നമ്മള്‍",
+    "back": "We",
+    "transliteration": "nammal",
+    "meaning": "We",
+    "audioText": "നമ്മള്‍"
+  },
+  {
+    "id": "phrase-personal-pronouns-57",
+    "type": "phrase",
+    "order": 40,
+    "category": "Personal Pronouns",
+    "front": "അവര്‍",
+    "back": "They",
+    "transliteration": "avar",
+    "meaning": "They",
+    "audioText": "അവര്‍"
+  },
+  {
+    "id": "phrase-personal-pronouns-58",
+    "type": "phrase",
+    "order": 41,
+    "category": "Personal Pronouns",
+    "front": "ഇവര്‍",
+    "back": "They (near)",
+    "transliteration": "ivar",
+    "meaning": "They (near)",
+    "audioText": "ഇവര്‍"
+  },
+  {
+    "id": "phrase-personal-pronouns-59",
+    "type": "phrase",
+    "order": 42,
+    "category": "Personal Pronouns",
+    "front": "അവര്‍ക്ക്",
+    "back": "To them",
+    "transliteration": "avarkku",
+    "meaning": "To them",
+    "audioText": "അവര്‍ക്ക്"
+  }
+]

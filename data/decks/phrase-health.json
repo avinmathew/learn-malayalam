@@ -1,0 +1,222 @@
+[
+  {
+    "id": "phrase-health-178",
+    "type": "phrase",
+    "order": 139,
+    "category": "Health",
+    "front": "ഏറ്റവും അടുത്തുള്ള ആശുപത്രി/ഡോക്ടർ എവിടെയാണ്?",
+    "back": "Where is the nearest hospital/doctor?",
+    "transliteration": "ettavum aduthulla aashupathri/doctar evideyaanu?",
+    "meaning": "Where is the nearest hospital/doctor?",
+    "audioText": "ഏറ്റവും അടുത്തുള്ള ആശുപത്രി/ഡോക്ടർ എവിടെയാണ്?"
+  },
+  {
+    "id": "phrase-health-179",
+    "type": "phrase",
+    "order": 140,
+    "category": "Health",
+    "front": "എനിക്ക് ഇംഗ്ലീഷ്/ഹിന്ദി/മലയാളം സംസാരിക്കുന്ന ഒരു ഡോക്ടറെ വേണം.",
+    "back": "I need a doctor who speaks English/Hindi/Malayalam.",
+    "transliteration": "enikku english/hindi/malayalam samsaarikkunna oru doctare venam.",
+    "meaning": "I need a doctor who speaks English/Hindi/Malayalam.",
+    "audioText": "എനിക്ക് ഇംഗ്ലീഷ്/ഹിന്ദി/മലയാളം സംസാരിക്കുന്ന ഒരു ഡോക്ടറെ വേണം."
+  },
+  {
+    "id": "phrase-health-180",
+    "type": "phrase",
+    "order": 141,
+    "category": "Health",
+    "front": "എനിക്ക് ഒരു പുരുഷ/സ്ത്രീ ഡോക്ടറെ കാണാൻ കഴിയുമോ?",
+    "back": "Could I see a male/female doctor?",
+    "transliteration": "enikku oru purusha/sthree doctare kaanan kazhiyumo?",
+    "meaning": "Could I see a male/female doctor?",
+    "audioText": "എനിക്ക് ഒരു പുരുഷ/സ്ത്രീ ഡോക്ടറെ കാണാൻ കഴിയുമോ?"
+  },
+  {
+    "id": "phrase-health-181",
+    "type": "phrase",
+    "order": 142,
+    "category": "Health",
+    "front": "അടുത്തുള്ള ഒരു രസതന്ത്രജ്ഞൻ എവിടെയാണ്?",
+    "back": "Where is the nearest chemist?",
+    "transliteration": "aduthulla oru rasathanthranjan evideyaanu?",
+    "meaning": "Where is the nearest chemist?",
+    "audioText": "അടുത്തുള്ള ഒരു രസതന്ത്രജ്ഞൻ എവിടെയാണ്?"
+  },
+  {
+    "id": "phrase-health-182",
+    "type": "phrase",
+    "order": 143,
+    "category": "Health",
+    "front": "ഞാൻ കോവിഡ്/ഹെപ്പറ്റൈറ്റിസ് വാക്സിനേഷൻ എടുത്തിട്ടുണ്ട്.",
+    "back": "I have been vaccinated for Covid/Hepatitis.",
+    "transliteration": "njaan kovid/hepattitis vaaksination eduthittundu.",
+    "meaning": "I have been vaccinated for Covid/Hepatitis.",
+    "audioText": "ഞാൻ കോവിഡ്/ഹെപ്പറ്റൈറ്റിസ് വാക്സിനേഷൻ എടുത്തിട്ടുണ്ട്."
+  },
+  {
+    "id": "phrase-health-183",
+    "type": "phrase",
+    "order": 144,
+    "category": "Health",
+    "front": "എനിക്ക് പനിയുണ്ട്.",
+    "back": "I have a fever.",
+    "transliteration": "enikku paniyundu.",
+    "meaning": "I have a fever.",
+    "audioText": "എനിക്ക് പനിയുണ്ട്."
+  },
+  {
+    "id": "phrase-health-184",
+    "type": "phrase",
+    "order": 145,
+    "category": "Health",
+    "front": "എനിക്ക് സുഖമില്ല.",
+    "back": "I am sick.",
+    "transliteration": "enikku sukhamilla.",
+    "meaning": "I am sick.",
+    "audioText": "എനിക്ക് സുഖമില്ല."
+  },
+  {
+    "id": "phrase-health-185",
+    "type": "phrase",
+    "order": 146,
+    "category": "Health",
+    "front": "അവൻ/അവൾ/എന്റെ സുഹൃത്ത് രോഗിയാണ്.",
+    "back": "He/She/My friend is sick.",
+    "transliteration": "avan/aval/ente suhruthu rogiyaanu.",
+    "meaning": "He/She/My friend is sick.",
+    "audioText": "അവൻ/അവൾ/എന്റെ സുഹൃത്ത് രോഗിയാണ്."
+  },
+  {
+    "id": "phrase-health-186",
+    "type": "phrase",
+    "order": 147,
+    "category": "Health",
+    "front": "എനിക്ക് ഛർദ്ദി തുടങ്ങിയിട്ടുണ്ട്.",
+    "back": "I have been vomiting.",
+    "transliteration": "enikku charddi thudangiyittundu.",
+    "meaning": "I have been vomiting.",
+    "audioText": "എനിക്ക് ഛർദ്ദി തുടങ്ങിയിട്ടുണ്ട്."
+  },
+  {
+    "id": "phrase-health-187",
+    "type": "phrase",
+    "order": 148,
+    "category": "Health",
+    "front": "എനിക്ക് ഉയരത്തിലുള്ള അസുഖമുണ്ട്.",
+    "back": "I have altitude sickness.",
+    "transliteration": "enikku uyarathilulla asukhamundu.",
+    "meaning": "I have altitude sickness.",
+    "audioText": "എനിക്ക് ഉയരത്തിലുള്ള അസുഖമുണ്ട്."
+  },
+  {
+    "id": "phrase-health-188",
+    "type": "phrase",
+    "order": 149,
+    "category": "Health",
+    "front": "എനിക്ക് കടൽച്ചൊരുക്കാണ്.",
+    "back": "I am seasick.",
+    "transliteration": "enikku kadalchiaarukkaanu.",
+    "meaning": "I am seasick.",
+    "audioText": "എനിക്ക് കടൽച്ചൊരുക്കാണ്."
+  },
+  {
+    "id": "phrase-health-189",
+    "type": "phrase",
+    "order": 150,
+    "category": "Health",
+    "front": "എനിക്ക് അലർജിയാണ് ...",
+    "back": "I am allergic to ...",
+    "transliteration": "enikku alarjiyaanu ...",
+    "meaning": "I am allergic to ...",
+    "audioText": "എനിക്ക് അലർജിയാണ് ..."
+  },
+  {
+    "id": "phrase-health-190",
+    "type": "phrase",
+    "order": 151,
+    "category": "Health",
+    "front": "എനിക്ക് എന്റെ ... ചലിപ്പിക്കാൻ കഴിയുന്നില്ല.",
+    "back": "I can't move my ...",
+    "transliteration": "enikku ente ... chalippikkaan kazhiyunnilla.",
+    "meaning": "I can't move my ...",
+    "audioText": "എനിക്ക് എന്റെ ... ചലിപ്പിക്കാൻ കഴിയുന്നില്ല."
+  },
+  {
+    "id": "phrase-health-191",
+    "type": "phrase",
+    "order": 152,
+    "category": "Health",
+    "front": "എന്റെ (കൈ/കാൽ) വീർത്തിരിക്കുന്നു.",
+    "back": "My (hand/leg) is swollen.",
+    "transliteration": "ente (kai/kaal) veerthirikkunnu.",
+    "meaning": "My (hand/leg) is swollen.",
+    "audioText": "എന്റെ (കൈ/കാൽ) വീർത്തിരിക്കുന്നു."
+  },
+  {
+    "id": "phrase-health-192",
+    "type": "phrase",
+    "order": 153,
+    "category": "Health",
+    "front": "എനിക്ക് പല്ലുവേദനയുണ്ട്.",
+    "back": "I have a toothache.",
+    "transliteration": "enikku palluvedanayundu.",
+    "meaning": "I have a toothache.",
+    "audioText": "എനിക്ക് പല്ലുവേദനയുണ്ട്."
+  },
+  {
+    "id": "phrase-health-193",
+    "type": "phrase",
+    "order": 154,
+    "category": "Health",
+    "front": "എന്റെ പല്ലുകൾ തകർന്നിരിക്കുന്നു.",
+    "back": "My dentures are broken.",
+    "transliteration": "ente pallukal thakarnnirikkunnu.",
+    "meaning": "My dentures are broken.",
+    "audioText": "എന്റെ പല്ലുകൾ തകർന്നിരിക്കുന്നു."
+  },
+  {
+    "id": "phrase-health-194",
+    "type": "phrase",
+    "order": 155,
+    "category": "Health",
+    "front": "എന്റെ മോണ വേദനിക്കുന്നു.",
+    "back": "My gum hurts.",
+    "transliteration": "ente mona vedanikkunnu.",
+    "meaning": "My gum hurts.",
+    "audioText": "എന്റെ മോണ വേദനിക്കുന്നു."
+  },
+  {
+    "id": "phrase-health-195",
+    "type": "phrase",
+    "order": 156,
+    "category": "Health",
+    "front": "എന്റെ മരുന്ന് തീർന്നു.",
+    "back": "I have run out of medication.",
+    "transliteration": "ente marunnu theernnu.",
+    "meaning": "I have run out of medication.",
+    "audioText": "എന്റെ മരുന്ന് തീർന്നു."
+  },
+  {
+    "id": "phrase-health-196",
+    "type": "phrase",
+    "order": 157,
+    "category": "Health",
+    "front": "എനിക്കൊരു കുറിപ്പടി ആവശ്യമാണ് ...",
+    "back": "I need a prescription for ...",
+    "transliteration": "enikkoru kurippadi aavashyamaanu ...",
+    "meaning": "I need a prescription for ...",
+    "audioText": "എനിക്കൊരു കുറിപ്പടി ആവശ്യമാണ് ..."
+  },
+  {
+    "id": "phrase-health-197",
+    "type": "phrase",
+    "order": 158,
+    "category": "Health",
+    "front": "ഞാൻ മരുന്ന് കഴിക്കുകയാണ് ...",
+    "back": "I am on medication for ...",
+    "transliteration": "njaan marunnu kazhikkukayaanu ...",
+    "meaning": "I am on medication for ...",
+    "audioText": "ഞാൻ മരുന്ന് കഴിക്കുകയാണ് ..."
+  }
+]

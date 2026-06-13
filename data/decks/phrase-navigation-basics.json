@@ -1,0 +1,46 @@
+[
+  {
+    "id": "phrase-navigation-basics-where-is-this-place",
+    "type": "phrase",
+    "order": 19,
+    "category": "Navigation Basics",
+    "front": "ഈ സ്ഥലം എവിടെ?",
+    "back": "Where is this place?",
+    "transliteration": "ee sthalam evide?",
+    "meaning": "Where is this place?",
+    "audioText": "ഈ സ്ഥലം എവിടെ?"
+  },
+  {
+    "id": "phrase-navigation-basics-how-do-i-go-there",
+    "type": "phrase",
+    "order": 20,
+    "category": "Navigation Basics",
+    "front": "അവിടെ എങ്ങനെ പോകാം?",
+    "back": "How do I go there?",
+    "transliteration": "avide engane pokam?",
+    "meaning": "How do I go there?",
+    "audioText": "അവിടെ എങ്ങനെ പോകാം?"
+  },
+  {
+    "id": "phrase-navigation-basics-is-this-the-right-way",
+    "type": "phrase",
+    "order": 21,
+    "category": "Navigation Basics",
+    "front": "ഇത് ശരിയായ വഴിയാണോ?",
+    "back": "Is this the right way?",
+    "transliteration": "ithu shariyaaya vazhiyaano?",
+    "meaning": "Is this the right way?",
+    "audioText": "ഇത് ശരിയായ വഴിയാണോ?"
+  },
+  {
+    "id": "phrase-navigation-basics-which-way-to-the-beach",
+    "type": "phrase",
+    "order": 22,
+    "category": "Navigation Basics",
+    "front": "കടൽത്തീരത്തേക്ക് ഏത് വഴി?",
+    "back": "Which way to the beach?",
+    "transliteration": "kadaltheerathekku eth vazhi?",
+    "meaning": "Which way to the beach?",
+    "audioText": "കടൽത്തീരത്തേക്ക് ഏത് വഴി?"
+  }
+]

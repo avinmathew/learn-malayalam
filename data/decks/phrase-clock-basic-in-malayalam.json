@@ -1,0 +1,211 @@
+[
+  {
+    "id": "phrase-clock-basic-in-malayalam-250",
+    "type": "phrase",
+    "order": 211,
+    "category": "Clock Basic in Malayalam",
+    "front": "എത്രയാണ് സമയം?",
+    "back": "What time is it?",
+    "transliteration": "ethrayaanu samayam?",
+    "meaning": "What time is it?",
+    "audioText": "എത്രയാണ് സമയം?"
+  },
+  {
+    "id": "phrase-clock-basic-in-malayalam-251",
+    "type": "phrase",
+    "order": 212,
+    "category": "Clock Basic in Malayalam",
+    "front": "ഒന്നോ രണ്ടോ പാദം",
+    "back": "Quarter past one / two.",
+    "transliteration": "onno rando paadam",
+    "meaning": "Quarter past one / two.",
+    "audioText": "ഒന്നോ രണ്ടോ പാദം"
+  },
+  {
+    "id": "phrase-clock-basic-in-malayalam-252",
+    "type": "phrase",
+    "order": 213,
+    "category": "Clock Basic in Malayalam",
+    "front": "ക്വാർട്ടർ മുതൽ ഒന്ന്/രണ്ട് വരെ.",
+    "back": "Quarter to one / two.",
+    "transliteration": "quarttar muthal onnu/randu vare.",
+    "meaning": "Quarter to one / two.",
+    "audioText": "ക്വാർട്ടർ മുതൽ ഒന്ന്/രണ്ട് വരെ."
+  },
+  {
+    "id": "phrase-clock-basic-in-malayalam-253",
+    "type": "phrase",
+    "order": 214,
+    "category": "Clock Basic in Malayalam",
+    "front": "ഒന്നര/രണ്ട്.",
+    "back": "Half past one / two.",
+    "transliteration": "onnara/randu.",
+    "meaning": "Half past one / two.",
+    "audioText": "ഒന്നര/രണ്ട്."
+  },
+  {
+    "id": "phrase-clock-basic-in-malayalam-254",
+    "type": "phrase",
+    "order": 215,
+    "category": "Clock Basic in Malayalam",
+    "front": "ഇരുപത് കഴിഞ്ഞ ഒന്ന്/രണ്ട്.",
+    "back": "Twenty past one / two.",
+    "transliteration": "irupathu kazhinja onnu/randu.",
+    "meaning": "Twenty past one / two.",
+    "audioText": "ഇരുപത് കഴിഞ്ഞ ഒന്ന്/രണ്ട്."
+  },
+  {
+    "id": "phrase-clock-basic-in-malayalam-255",
+    "type": "phrase",
+    "order": 216,
+    "category": "Clock Basic in Malayalam",
+    "front": "ഇരുപത് മുതൽ ഒന്ന്/രണ്ട് വരെ.",
+    "back": "Twenty to one / two.",
+    "transliteration": "irupathu muthal onnu/randu vare.",
+    "meaning": "Twenty to one / two.",
+    "audioText": "ഇരുപത് മുതൽ ഒന്ന്/രണ്ട് വരെ."
+  },
+  {
+    "id": "phrase-clock-basic-in-malayalam-256",
+    "type": "phrase",
+    "order": 217,
+    "category": "Clock Basic in Malayalam",
+    "front": "സമയം 1:30 / 2:15.",
+    "back": "It's 1:30 / 2:15.",
+    "transliteration": "samayam 1:30 / 2:15.",
+    "meaning": "It's 1:30 / 2:15.",
+    "audioText": "സമയം 1:30 / 2:15."
+  },
+  {
+    "id": "phrase-clock-basic-in-malayalam-257",
+    "type": "phrase",
+    "order": 218,
+    "category": "Clock Basic in Malayalam",
+    "front": "ഏത് സമയത്ത്?",
+    "back": "At what time?",
+    "transliteration": "ethu samayathu?",
+    "meaning": "At what time?",
+    "audioText": "ഏത് സമയത്ത്?"
+  },
+  {
+    "id": "phrase-clock-basic-in-malayalam-258",
+    "type": "phrase",
+    "order": 219,
+    "category": "Clock Basic in Malayalam",
+    "front": "തീയതിയിൽ?",
+    "back": "At date?",
+    "transliteration": "theeyathiyil?",
+    "meaning": "At date?",
+    "audioText": "തീയതിയിൽ?"
+  },
+  {
+    "id": "phrase-clock-basic-in-malayalam-259",
+    "type": "phrase",
+    "order": 220,
+    "category": "Clock Basic in Malayalam",
+    "front": "എന്ന സ്ഥലത്ത്...",
+    "back": "At ...",
+    "transliteration": "enna sthalathu...",
+    "meaning": "At ...",
+    "audioText": "എന്ന സ്ഥലത്ത്..."
+  },
+  {
+    "id": "phrase-clock-basic-in-malayalam-260",
+    "type": "phrase",
+    "order": 221,
+    "category": "Clock Basic in Malayalam",
+    "front": "സെക്കന്റ്(കൾ)",
+    "back": "Second(s)",
+    "transliteration": "sekkanat(kal)",
+    "meaning": "Second(s)",
+    "audioText": "സെക്കന്റ്(കൾ)"
+  },
+  {
+    "id": "phrase-clock-basic-in-malayalam-261",
+    "type": "phrase",
+    "order": 222,
+    "category": "Clock Basic in Malayalam",
+    "front": "മിനിറ്റ്(ങ്ങൾ)",
+    "back": "Minute(s)",
+    "transliteration": "minittu(ngal)",
+    "meaning": "Minute(s)",
+    "audioText": "മിനിറ്റ്(ങ്ങൾ)"
+  },
+  {
+    "id": "phrase-clock-basic-in-malayalam-262",
+    "type": "phrase",
+    "order": 223,
+    "category": "Clock Basic in Malayalam",
+    "front": "മണിക്കൂർ(ങ്ങൾ)",
+    "back": "Hours(s)",
+    "transliteration": "manikkoor(ngal)",
+    "meaning": "Hours(s)",
+    "audioText": "മണിക്കൂർ(ങ്ങൾ)"
+  },
+  {
+    "id": "phrase-clock-basic-in-malayalam-263",
+    "type": "phrase",
+    "order": 224,
+    "category": "Clock Basic in Malayalam",
+    "front": "ദിവസം",
+    "back": "Day",
+    "transliteration": "divasam",
+    "meaning": "Day",
+    "audioText": "ദിവസം"
+  },
+  {
+    "id": "phrase-clock-basic-in-malayalam-264",
+    "type": "phrase",
+    "order": 225,
+    "category": "Clock Basic in Malayalam",
+    "front": "ആഴ്ച",
+    "back": "Week",
+    "transliteration": "aazcha",
+    "meaning": "Week",
+    "audioText": "ആഴ്ച"
+  },
+  {
+    "id": "phrase-clock-basic-in-malayalam-265",
+    "type": "phrase",
+    "order": 226,
+    "category": "Clock Basic in Malayalam",
+    "front": "മാസം",
+    "back": "Month",
+    "transliteration": "maasam",
+    "meaning": "Month",
+    "audioText": "മാസം"
+  },
+  {
+    "id": "phrase-clock-basic-in-malayalam-266",
+    "type": "phrase",
+    "order": 227,
+    "category": "Clock Basic in Malayalam",
+    "front": "വർഷം",
+    "back": "Year",
+    "transliteration": "varsham",
+    "meaning": "Year",
+    "audioText": "വർഷം"
+  },
+  {
+    "id": "phrase-clock-basic-in-malayalam-267",
+    "type": "phrase",
+    "order": 228,
+    "category": "Clock Basic in Malayalam",
+    "front": "ദശാബ്ദം",
+    "back": "Decade",
+    "transliteration": "dashaabdam",
+    "meaning": "Decade",
+    "audioText": "ദശാബ്ദം"
+  },
+  {
+    "id": "phrase-clock-basic-in-malayalam-268",
+    "type": "phrase",
+    "order": 229,
+    "category": "Clock Basic in Malayalam",
+    "front": "നൂറ്റാണ്ട്",
+    "back": "Century",
+    "transliteration": "nootandu",
+    "meaning": "Century",
+    "audioText": "നൂറ്റാണ്ട്"
+  }
+]

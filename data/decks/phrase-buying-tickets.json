@@ -1,0 +1,79 @@
+[
+  {
+    "id": "phrase-buying-tickets-83",
+    "type": "phrase",
+    "order": 66,
+    "category": "Buying Tickets",
+    "front": "എനിക്ക് എവിടെ നിന്ന് ടിക്കറ്റ് വാങ്ങാനാകും?",
+    "back": "Where can I buy a ticket?",
+    "transliteration": "enikku evide ninnu tikketu vaangaanaakum?",
+    "meaning": "Where can I buy a ticket?",
+    "audioText": "എനിക്ക് എവിടെ നിന്ന് ടിക്കറ്റ് വാങ്ങാനാകും?"
+  },
+  {
+    "id": "phrase-buying-tickets-84",
+    "type": "phrase",
+    "order": 67,
+    "category": "Buying Tickets",
+    "front": "എനിക്ക് മുൻകൂട്ടി ടിക്കറ്റ് ബുക്ക് ചെയ്യേണ്ടതുണ്ടോ?",
+    "back": "Do I need to book a ticket in advance?",
+    "transliteration": "enikku munkooti tikketu booku cheyyendathundo?",
+    "meaning": "Do I need to book a ticket in advance?",
+    "audioText": "എനിക്ക് മുൻകൂട്ടി ടിക്കറ്റ് ബുക്ക് ചെയ്യേണ്ടതുണ്ടോ?"
+  },
+  {
+    "id": "phrase-buying-tickets-85",
+    "type": "phrase",
+    "order": 68,
+    "category": "Buying Tickets",
+    "front": "എനിക്ക് വൺ വേ / റിട്ടേൺ ടിക്കറ്റ് ലഭിക്കുമോ?",
+    "back": "Can I have a one-way / return ticket, please?",
+    "transliteration": "enikku van ve / retten tikketu labhikkumo?",
+    "meaning": "Can I have a one-way / return ticket, please?",
+    "audioText": "എനിക്ക് വൺ വേ / റിട്ടേൺ ടിക്കറ്റ് ലഭിക്കുമോ?"
+  },
+  {
+    "id": "phrase-buying-tickets-86",
+    "type": "phrase",
+    "order": 69,
+    "category": "Buying Tickets",
+    "front": "എനിക്ക് ക്രിക്കറ്റ് മത്സരത്തിനുള്ള ഒന്നാം ക്ലാസ് / രണ്ടാം ക്ലാസ് ടിക്കറ്റ് ലഭിക്കുമോ?",
+    "back": "Can I have 1st-class / 2nd-class ticket to Cricket Match?",
+    "transliteration": "enikku crikketu malsarathinulla onnaam clas / randam clas tikketu labhikkumo?",
+    "meaning": "Can I have 1st-class / 2nd-class ticket to Cricket Match?",
+    "audioText": "എനിക്ക് ക്രിക്കറ്റ് മത്സരത്തിനുള്ള ഒന്നാം ക്ലാസ് / രണ്ടാം ക്ലാസ് ടിക്കറ്റ് ലഭിക്കുമോ?"
+  },
+  {
+    "id": "phrase-buying-tickets-87",
+    "type": "phrase",
+    "order": 70,
+    "category": "Buying Tickets",
+    "front": "എനിക്ക് ഒരു ഇടനാഴി / ഒരു വിൻഡോ സീറ്റ് വേണം.",
+    "back": "I would like an aisle / a window seat.",
+    "transliteration": "enikku oru edanaazhi / oru vindo seettu venam.",
+    "meaning": "I would like an aisle / a window seat.",
+    "audioText": "എനിക്ക് ഒരു ഇടനാഴി / ഒരു വിൻഡോ സീറ്റ് വേണം."
+  },
+  {
+    "id": "phrase-buying-tickets-88",
+    "type": "phrase",
+    "order": 71,
+    "category": "Buying Tickets",
+    "front": "എനിക്ക് ഒരു ദിവസം / പ്രതിവാര ടിക്കറ്റ് ലഭിക്കുമോ?",
+    "back": "Can I get a day / weekly ticket?",
+    "transliteration": "enikku oru divasam / prathivaara tikketu labhikkumo?",
+    "meaning": "Can I get a day / weekly ticket?",
+    "audioText": "എനിക്ക് ഒരു ദിവസം / പ്രതിവാര ടിക്കറ്റ് ലഭിക്കുമോ?"
+  },
+  {
+    "id": "phrase-buying-tickets-89",
+    "type": "phrase",
+    "order": 72,
+    "category": "Buying Tickets",
+    "front": "ടിക്കറ്റ് റദ്ദാക്കാനും / മാറ്റാനും / സ്ഥിരീകരിക്കാനും ഞാൻ ആഗ്രഹിക്കുന്നു, ദയവായി.",
+    "back": "I would like to cancel / change / confirm my ticket, please.",
+    "transliteration": "tikketu raddaakkanum / mattaanum / sthireekarikkanum njaan aagrahikkunnu, dayavaayi.",
+    "meaning": "I would like to cancel / change / confirm my ticket, please.",
+    "audioText": "ടിക്കറ്റ് റദ്ദാക്കാനും / മാറ്റാനും / സ്ഥിരീകരിക്കാനും ഞാൻ ആഗ്രഹിക്കുന്നു, ദയവായി."
+  }
+]

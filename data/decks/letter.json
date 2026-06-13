@@ -1,0 +1,649 @@
+[
+  {
+    "id": "letter-a",
+    "type": "letter",
+    "order": 1,
+    "front": "അ",
+    "back": "a",
+    "transliteration": "a",
+    "audioText": "അ"
+  },
+  {
+    "id": "letter-aa",
+    "type": "letter",
+    "order": 2,
+    "front": "ആ",
+    "back": "aa",
+    "transliteration": "aa",
+    "audioText": "ആ"
+  },
+  {
+    "id": "letter-i",
+    "type": "letter",
+    "order": 3,
+    "front": "ഇ",
+    "back": "i",
+    "transliteration": "i",
+    "audioText": "ഇ"
+  },
+  {
+    "id": "letter-ii",
+    "type": "letter",
+    "order": 4,
+    "front": "ഈ",
+    "back": "ii",
+    "transliteration": "ii",
+    "audioText": "ഈ"
+  },
+  {
+    "id": "letter-u",
+    "type": "letter",
+    "order": 5,
+    "front": "ഉ",
+    "back": "u",
+    "transliteration": "u",
+    "audioText": "ഉ"
+  },
+  {
+    "id": "letter-uu",
+    "type": "letter",
+    "order": 6,
+    "front": "ഊ",
+    "back": "uu",
+    "transliteration": "uu",
+    "audioText": "ഊ"
+  },
+  {
+    "id": "letter-e",
+    "type": "letter",
+    "order": 7,
+    "front": "എ",
+    "back": "e",
+    "transliteration": "e",
+    "audioText": "എ"
+  },
+  {
+    "id": "letter-ee",
+    "type": "letter",
+    "order": 8,
+    "front": "ഏ",
+    "back": "ee",
+    "transliteration": "ee",
+    "audioText": "ഏ"
+  },
+  {
+    "id": "letter-o",
+    "type": "letter",
+    "order": 9,
+    "front": "ഒ",
+    "back": "o",
+    "transliteration": "o",
+    "audioText": "ഒ"
+  },
+  {
+    "id": "letter-oo",
+    "type": "letter",
+    "order": 10,
+    "front": "ഓ",
+    "back": "oo",
+    "transliteration": "oo",
+    "audioText": "ഓ"
+  },
+  {
+    "id": "letter-ai",
+    "type": "letter",
+    "order": 11,
+    "front": "ഐ",
+    "back": "ai",
+    "transliteration": "ai",
+    "audioText": "ഐ"
+  },
+  {
+    "id": "letter-au",
+    "type": "letter",
+    "order": 12,
+    "front": "ഔ",
+    "back": "au",
+    "transliteration": "au",
+    "audioText": "ഔ"
+  },
+  {
+    "id": "letter-am",
+    "type": "letter",
+    "order": 13,
+    "front": "അം",
+    "back": "am",
+    "transliteration": "am",
+    "audioText": "അം"
+  },
+  {
+    "id": "letter-ah",
+    "type": "letter",
+    "order": 14,
+    "front": "അഃ",
+    "back": "ah",
+    "transliteration": "ah",
+    "audioText": "അഃ"
+  },
+  {
+    "id": "letter-ka",
+    "type": "letter",
+    "order": 15,
+    "front": "ക",
+    "back": "ka",
+    "transliteration": "ka",
+    "example": "കേരളം",
+    "audioText": "ക"
+  },
+  {
+    "id": "letter-ga",
+    "type": "letter",
+    "order": 16,
+    "front": "ഗ",
+    "back": "ga",
+    "transliteration": "ga",
+    "example": "ഗാനം",
+    "audioText": "ഗ"
+  },
+  {
+    "id": "letter-cha",
+    "type": "letter",
+    "order": 17,
+    "front": "ച",
+    "back": "cha",
+    "transliteration": "cha",
+    "example": "ചായ",
+    "audioText": "ച"
+  },
+  {
+    "id": "letter-ja",
+    "type": "letter",
+    "order": 18,
+    "front": "ജ",
+    "back": "ja",
+    "transliteration": "ja",
+    "audioText": "ജ"
+  },
+  {
+    "id": "letter-tta",
+    "type": "letter",
+    "order": 19,
+    "front": "ട",
+    "back": "tta",
+    "transliteration": "tta",
+    "example": "ടമാറ്റോ",
+    "audioText": "ട"
+  },
+  {
+    "id": "letter-dda",
+    "type": "letter",
+    "order": 20,
+    "front": "ഡ",
+    "back": "dda",
+    "transliteration": "dda",
+    "audioText": "ഡ"
+  },
+  {
+    "id": "letter-ta",
+    "type": "letter",
+    "order": 21,
+    "front": "ത",
+    "back": "ta",
+    "transliteration": "ta",
+    "example": "തേൻ",
+    "audioText": "ത"
+  },
+  {
+    "id": "letter-da",
+    "type": "letter",
+    "order": 22,
+    "front": "ദ",
+    "back": "da",
+    "transliteration": "da",
+    "audioText": "ദ"
+  },
+  {
+    "id": "letter-na",
+    "type": "letter",
+    "order": 23,
+    "front": "ന",
+    "back": "na",
+    "transliteration": "na",
+    "audioText": "ന"
+  },
+  {
+    "id": "letter-pa",
+    "type": "letter",
+    "order": 24,
+    "front": "പ",
+    "back": "pa",
+    "transliteration": "pa",
+    "example": "പാട്ട്",
+    "audioText": "പ"
+  },
+  {
+    "id": "letter-ba",
+    "type": "letter",
+    "order": 25,
+    "front": "ബ",
+    "back": "ba",
+    "transliteration": "ba",
+    "audioText": "ബ"
+  },
+  {
+    "id": "letter-ma",
+    "type": "letter",
+    "order": 26,
+    "front": "മ",
+    "back": "ma",
+    "transliteration": "ma",
+    "example": "മരം",
+    "audioText": "മ"
+  },
+  {
+    "id": "letter-kaa",
+    "type": "letter",
+    "order": 27,
+    "front": "കാ",
+    "back": "kaa",
+    "transliteration": "kaa",
+    "audioText": "കാ"
+  },
+  {
+    "id": "letter-ki",
+    "type": "letter",
+    "order": 28,
+    "front": "കി",
+    "back": "ki",
+    "transliteration": "ki",
+    "audioText": "കി"
+  },
+  {
+    "id": "letter-kii",
+    "type": "letter",
+    "order": 29,
+    "front": "കീ",
+    "back": "kii",
+    "transliteration": "kii",
+    "audioText": "കീ"
+  },
+  {
+    "id": "letter-ku",
+    "type": "letter",
+    "order": 30,
+    "front": "കു",
+    "back": "ku",
+    "transliteration": "ku",
+    "audioText": "കു"
+  },
+  {
+    "id": "letter-kuu",
+    "type": "letter",
+    "order": 31,
+    "front": "കൂ",
+    "back": "kuu",
+    "transliteration": "kuu",
+    "audioText": "കൂ"
+  },
+  {
+    "id": "letter-ke",
+    "type": "letter",
+    "order": 32,
+    "front": "കെ",
+    "back": "ke",
+    "transliteration": "ke",
+    "audioText": "കെ"
+  },
+  {
+    "id": "letter-kee",
+    "type": "letter",
+    "order": 33,
+    "front": "കേ",
+    "back": "kee",
+    "transliteration": "kee",
+    "audioText": "കേ"
+  },
+  {
+    "id": "letter-kai",
+    "type": "letter",
+    "order": 34,
+    "front": "കൈ",
+    "back": "kai",
+    "transliteration": "kai",
+    "audioText": "കൈ"
+  },
+  {
+    "id": "letter-ko",
+    "type": "letter",
+    "order": 35,
+    "front": "കൊ",
+    "back": "ko",
+    "transliteration": "ko",
+    "audioText": "കൊ"
+  },
+  {
+    "id": "letter-koo",
+    "type": "letter",
+    "order": 36,
+    "front": "കോ",
+    "back": "koo",
+    "transliteration": "koo",
+    "audioText": "കോ"
+  },
+  {
+    "id": "letter-kau",
+    "type": "letter",
+    "order": 37,
+    "front": "കൗ",
+    "back": "kau",
+    "transliteration": "kau",
+    "audioText": "കൗ"
+  },
+  {
+    "id": "letter-ya",
+    "type": "letter",
+    "order": 38,
+    "front": "യ",
+    "back": "ya",
+    "transliteration": "ya",
+    "audioText": "യ"
+  },
+  {
+    "id": "letter-ra",
+    "type": "letter",
+    "order": 39,
+    "front": "ര",
+    "back": "ra",
+    "transliteration": "ra",
+    "audioText": "ര"
+  },
+  {
+    "id": "letter-la",
+    "type": "letter",
+    "order": 40,
+    "front": "ല",
+    "back": "la",
+    "transliteration": "la",
+    "audioText": "ല"
+  },
+  {
+    "id": "letter-va",
+    "type": "letter",
+    "order": 41,
+    "front": "വ",
+    "back": "va",
+    "transliteration": "va",
+    "audioText": "വ"
+  },
+  {
+    "id": "letter-sa",
+    "type": "letter",
+    "order": 42,
+    "front": "സ",
+    "back": "sa",
+    "transliteration": "sa",
+    "audioText": "സ"
+  },
+  {
+    "id": "letter-ha",
+    "type": "letter",
+    "order": 43,
+    "front": "ഹ",
+    "back": "ha",
+    "transliteration": "ha",
+    "audioText": "ഹ"
+  },
+  {
+    "id": "letter-kha",
+    "type": "letter",
+    "order": 44,
+    "front": "ഖ",
+    "back": "kha",
+    "transliteration": "kha",
+    "example": "ഖാദി",
+    "audioText": "ഖ"
+  },
+  {
+    "id": "letter-gha",
+    "type": "letter",
+    "order": 45,
+    "front": "ഘ",
+    "back": "gha",
+    "transliteration": "gha",
+    "audioText": "ഘ"
+  },
+  {
+    "id": "letter-nga",
+    "type": "letter",
+    "order": 46,
+    "front": "ങ",
+    "back": "nga",
+    "transliteration": "nga",
+    "audioText": "ങ"
+  },
+  {
+    "id": "letter-chha",
+    "type": "letter",
+    "order": 47,
+    "front": "ഛ",
+    "back": "chha",
+    "transliteration": "chha",
+    "audioText": "ഛ"
+  },
+  {
+    "id": "letter-jha",
+    "type": "letter",
+    "order": 48,
+    "front": "ഝ",
+    "back": "jha",
+    "transliteration": "jha",
+    "audioText": "ഝ"
+  },
+  {
+    "id": "letter-nya",
+    "type": "letter",
+    "order": 49,
+    "front": "ഞ",
+    "back": "nya",
+    "transliteration": "nya",
+    "audioText": "ഞ"
+  },
+  {
+    "id": "letter-ttha",
+    "type": "letter",
+    "order": 50,
+    "front": "ഠ",
+    "back": "ttha",
+    "transliteration": "ttha",
+    "audioText": "ഠ"
+  },
+  {
+    "id": "letter-ddha",
+    "type": "letter",
+    "order": 51,
+    "front": "ഢ",
+    "back": "ddha",
+    "transliteration": "ddha",
+    "audioText": "ഢ"
+  },
+  {
+    "id": "letter-nna",
+    "type": "letter",
+    "order": 52,
+    "front": "ണ",
+    "back": "nna",
+    "transliteration": "nna",
+    "audioText": "ണ"
+  },
+  {
+    "id": "letter-tha",
+    "type": "letter",
+    "order": 53,
+    "front": "ഥ",
+    "back": "tha",
+    "transliteration": "tha",
+    "audioText": "ഥ"
+  },
+  {
+    "id": "letter-dha",
+    "type": "letter",
+    "order": 54,
+    "front": "ധ",
+    "back": "dha",
+    "transliteration": "dha",
+    "audioText": "ധ"
+  },
+  {
+    "id": "letter-pha",
+    "type": "letter",
+    "order": 55,
+    "front": "ഫ",
+    "back": "pha",
+    "transliteration": "pha",
+    "audioText": "ഫ"
+  },
+  {
+    "id": "letter-bha",
+    "type": "letter",
+    "order": 56,
+    "front": "ഭ",
+    "back": "bha",
+    "transliteration": "bha",
+    "audioText": "ഭ"
+  },
+  {
+    "id": "letter-sha",
+    "type": "letter",
+    "order": 57,
+    "front": "ശ",
+    "back": "sha",
+    "transliteration": "sha",
+    "audioText": "ശ"
+  },
+  {
+    "id": "letter-ssa",
+    "type": "letter",
+    "order": 58,
+    "front": "ഷ",
+    "back": "ssa",
+    "transliteration": "ssa",
+    "audioText": "ഷ"
+  },
+  {
+    "id": "letter-lla",
+    "type": "letter",
+    "order": 59,
+    "front": "ള",
+    "back": "lla",
+    "transliteration": "lla",
+    "audioText": "ള"
+  },
+  {
+    "id": "letter-zha",
+    "type": "letter",
+    "order": 60,
+    "front": "ഴ",
+    "back": "zha",
+    "transliteration": "zha",
+    "audioText": "ഴ"
+  },
+  {
+    "id": "letter-rra",
+    "type": "letter",
+    "order": 61,
+    "front": "റ",
+    "back": "rra",
+    "transliteration": "rra",
+    "audioText": "റ"
+  },
+  {
+    "id": "letter-chillu-nn",
+    "type": "letter",
+    "order": 62,
+    "front": "ൺ",
+    "back": "nn",
+    "transliteration": "nn",
+    "audioText": "ൺ"
+  },
+  {
+    "id": "letter-chillu-n",
+    "type": "letter",
+    "order": 63,
+    "front": "ൻ",
+    "back": "n",
+    "transliteration": "n",
+    "audioText": "ൻ"
+  },
+  {
+    "id": "letter-chillu-r",
+    "type": "letter",
+    "order": 64,
+    "front": "ർ",
+    "back": "r",
+    "transliteration": "r",
+    "audioText": "ർ"
+  },
+  {
+    "id": "letter-chillu-l",
+    "type": "letter",
+    "order": 65,
+    "front": "ൽ",
+    "back": "l",
+    "transliteration": "l",
+    "audioText": "ൽ"
+  },
+  {
+    "id": "letter-chillu-ll",
+    "type": "letter",
+    "order": 66,
+    "front": "ൾ",
+    "back": "ll",
+    "transliteration": "ll",
+    "audioText": "ൾ"
+  },
+  {
+    "id": "letter-chillu-k",
+    "type": "letter",
+    "order": 67,
+    "front": "ൿ",
+    "back": "k",
+    "transliteration": "k",
+    "audioText": "ൿ"
+  },
+  {
+    "id": "letter-r-vowel",
+    "type": "letter",
+    "order": 68,
+    "front": "ഋ",
+    "back": "r",
+    "transliteration": "r",
+    "audioText": "ഋ"
+  },
+  {
+    "id": "letter-rr-vowel",
+    "type": "letter",
+    "order": 69,
+    "front": "ൠ",
+    "back": "rr",
+    "transliteration": "rr",
+    "audioText": "ൠ"
+  },
+  {
+    "id": "letter-l-vowel",
+    "type": "letter",
+    "order": 70,
+    "front": "ഌ",
+    "back": "l",
+    "transliteration": "l",
+    "audioText": "ഌ"
+  },
+  {
+    "id": "letter-ll-vowel",
+    "type": "letter",
+    "order": 71,
+    "front": "ൡ",
+    "back": "ll",
+    "transliteration": "ll",
+    "audioText": "ൡ"
+  }
+]

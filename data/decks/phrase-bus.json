@@ -1,0 +1,57 @@
+[
+  {
+    "id": "phrase-bus-90",
+    "type": "phrase",
+    "order": 73,
+    "category": "Bus",
+    "front": "ഏത് ബസാണ് (സ്റ്റേഷനിലേക്ക്) പോകുന്നത്?",
+    "back": "Which bus goes to (the station)?",
+    "transliteration": "ethu basaanu (stationilekku) pokunnathu?",
+    "meaning": "Which bus goes to (the station)?",
+    "audioText": "ഏത് ബസാണ് (സ്റ്റേഷനിലേക്ക്) പോകുന്നത്?"
+  },
+  {
+    "id": "phrase-bus-91",
+    "type": "phrase",
+    "order": 74,
+    "category": "Bus",
+    "front": "ഒരു ബസ് നമ്പർ എന്താണ്?",
+    "back": "What is the bus number?",
+    "transliteration": "oru bas nambar enthaanu?",
+    "meaning": "What is the bus number?",
+    "audioText": "ഒരു ബസ് നമ്പർ എന്താണ്?"
+  },
+  {
+    "id": "phrase-bus-92",
+    "type": "phrase",
+    "order": 75,
+    "category": "Bus",
+    "front": "ബസ് സ്റ്റോപ്പ് എവിടെയാണ്?",
+    "back": "Where is the bus stop?",
+    "transliteration": "bas stoppu evideyaanu?",
+    "meaning": "Where is the bus stop?",
+    "audioText": "ബസ് സ്റ്റോപ്പ് എവിടെയാണ്?"
+  },
+  {
+    "id": "phrase-bus-93",
+    "type": "phrase",
+    "order": 76,
+    "category": "Bus",
+    "front": "അടുത്ത സ്റ്റോപ്പ് എന്താണ്?",
+    "back": "What is the next stop?",
+    "transliteration": "adutha stoppu enthaanu?",
+    "meaning": "What is the next stop?",
+    "audioText": "അടുത്ത സ്റ്റോപ്പ് എന്താണ്?"
+  },
+  {
+    "id": "phrase-bus-94",
+    "type": "phrase",
+    "order": 77,
+    "category": "Bus",
+    "front": "ഷോപ്പിംഗ് സെന്ററിൽ ഇറങ്ങാൻ ഞാൻ ആഗ്രഹിക്കുന്നു.",
+    "back": "I would like to get off at the shopping center.",
+    "transliteration": "shopping sentaril irangaan njaan aagrahikkunnu.",
+    "meaning": "I would like to get off at the shopping center.",
+    "audioText": "ഷോപ്പിംഗ് സെന്ററിൽ ഇറങ്ങാൻ ഞാൻ ആഗ്രഹിക്കുന്നു."
+  }
+]

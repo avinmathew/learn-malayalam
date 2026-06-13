@@ -1,0 +1,79 @@
+[
+  {
+    "id": "phrase-getting-around-76",
+    "type": "phrase",
+    "order": 59,
+    "category": "Getting Around",
+    "front": "ഞാൻ എങ്ങനെയാണ് മൃഗശാലയിൽ എത്തുന്നത്?",
+    "back": "How do I get to the Zoo?",
+    "transliteration": "njaan enganeyaanu mrigashaalayil ethunnathu?",
+    "meaning": "How do I get to the Zoo?",
+    "audioText": "ഞാൻ എങ്ങനെയാണ് മൃഗശാലയിൽ എത്തുന്നത്?"
+  },
+  {
+    "id": "phrase-getting-around-77",
+    "type": "phrase",
+    "order": 60,
+    "category": "Getting Around",
+    "front": "പൊതുഗതാഗതത്തിൽ നമുക്ക് അവിടെയെത്താൻ കഴിയുമോ?",
+    "back": "Can we get there by public transport?",
+    "transliteration": "pothugathagathathil namukku avideyethaan kazhiyumo?",
+    "meaning": "Can we get there by public transport?",
+    "audioText": "പൊതുഗതാഗതത്തിൽ നമുക്ക് അവിടെയെത്താൻ കഴിയുമോ?"
+  },
+  {
+    "id": "phrase-getting-around-78",
+    "type": "phrase",
+    "order": 61,
+    "category": "Getting Around",
+    "front": "ബസ് / ട്രെയിൻ / വിമാനം എപ്പോൾ പുറപ്പെടും?",
+    "back": "What time does the bus / train / plane leave?",
+    "transliteration": "bas / train / vimaanam eppol purappedum?",
+    "meaning": "What time does the bus / train / plane leave?",
+    "audioText": "ബസ് / ട്രെയിൻ / വിമാനം എപ്പോൾ പുറപ്പെടും?"
+  },
+  {
+    "id": "phrase-getting-around-79",
+    "type": "phrase",
+    "order": 62,
+    "category": "Getting Around",
+    "front": "ഏത് സമയത്താണ് അത് എത്തുന്നത്?",
+    "back": "What time does it arrive?",
+    "transliteration": "ethu samayathaanu athu ethunnathu?",
+    "meaning": "What time does it arrive?",
+    "audioText": "ഏത് സമയത്താണ് അത് എത്തുന്നത്?"
+  },
+  {
+    "id": "phrase-getting-around-80",
+    "type": "phrase",
+    "order": 63,
+    "category": "Getting Around",
+    "front": "ഇത് എത്രമാത്രം താമസിക്കും",
+    "back": "How long will it be delayed",
+    "transliteration": "ithu ethramaathram thaamasikkum",
+    "meaning": "How long will it be delayed",
+    "audioText": "ഇത് എത്രമാത്രം താമസിക്കും"
+  },
+  {
+    "id": "phrase-getting-around-81",
+    "type": "phrase",
+    "order": 64,
+    "category": "Getting Around",
+    "front": "ഈ സീറ്റ് സൗജന്യമാണോ?",
+    "back": "Is this seat free?",
+    "transliteration": "ee seettu soujanyamaano?",
+    "meaning": "Is this seat free?",
+    "audioText": "ഈ സീറ്റ് സൗജന്യമാണോ?"
+  },
+  {
+    "id": "phrase-getting-around-82",
+    "type": "phrase",
+    "order": 65,
+    "category": "Getting Around",
+    "front": "എനിക്ക് ഇവിടെ ഇറങ്ങണം.",
+    "back": "I want to get off here.",
+    "transliteration": "enikku evide iranganam.",
+    "meaning": "I want to get off here.",
+    "audioText": "എനിക്ക് ഇവിടെ ഇറങ്ങണം."
+  }
+]

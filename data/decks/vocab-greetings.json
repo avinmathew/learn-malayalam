@@ -1,0 +1,62 @@
+[
+  {
+    "id": "vocab-greetings-hello",
+    "type": "vocab",
+    "order": 1,
+    "category": "Greetings",
+    "front": "നമസ്കാരം",
+    "back": "Hello",
+    "transliteration": "namaskāram",
+    "meaning": "Hello",
+    "imagePath": "/vocab-images/greetings/hello.png",
+    "audioText": "നമസ്കാരം"
+  },
+  {
+    "id": "vocab-greetings-thank-you",
+    "type": "vocab",
+    "order": 2,
+    "category": "Greetings",
+    "front": "നന്ദി",
+    "back": "Thank you",
+    "transliteration": "nanni",
+    "meaning": "Thank you",
+    "imagePath": "/vocab-images/greetings/thank-you.png",
+    "audioText": "നന്ദി"
+  },
+  {
+    "id": "vocab-greetings-welcome",
+    "type": "vocab",
+    "order": 3,
+    "category": "Greetings",
+    "front": "സ്വാഗതം",
+    "back": "Welcome",
+    "transliteration": "svāgatam",
+    "meaning": "Welcome",
+    "imagePath": "/vocab-images/greetings/welcome.png",
+    "audioText": "സ്വാഗതം"
+  },
+  {
+    "id": "vocab-greetings-goodbye",
+    "type": "vocab",
+    "order": 4,
+    "category": "Greetings",
+    "front": "പോയിട്ട് വരാം",
+    "back": "Goodbye",
+    "transliteration": "poyittu varām",
+    "meaning": "Goodbye",
+    "imagePath": "/vocab-images/greetings/goodbye.png",
+    "audioText": "പോയിട്ട് വരാം"
+  },
+  {
+    "id": "vocab-greetings-okay",
+    "type": "vocab",
+    "order": 5,
+    "category": "Greetings",
+    "front": "ശരി",
+    "back": "Okay",
+    "transliteration": "shari",
+    "meaning": "Okay",
+    "imagePath": "/vocab-images/greetings/okay.png",
+    "audioText": "ശരി"
+  }
+]

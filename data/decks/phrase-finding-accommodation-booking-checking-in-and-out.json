@@ -1,0 +1,211 @@
+[
+  {
+    "id": "phrase-finding-accommodation-booking-checking-in-and-out-112",
+    "type": "phrase",
+    "order": 291,
+    "category": "Finding Accommodation, Booking, Checking In & Out",
+    "front": "ഒരു ഹോട്ടൽ എവിടെയാണ്?",
+    "back": "Where is a hotel?",
+    "transliteration": "oru hottal evideyaanu?",
+    "meaning": "Where is a hotel?",
+    "audioText": "ഒരു ഹോട്ടൽ എവിടെയാണ്?"
+  },
+  {
+    "id": "phrase-finding-accommodation-booking-checking-in-and-out-113",
+    "type": "phrase",
+    "order": 292,
+    "category": "Finding Accommodation, Booking, Checking In & Out",
+    "front": "ഒരു രാത്രിക്ക് എത്ര ചെലവാകും?",
+    "back": "How much is it per night?",
+    "transliteration": "oru raathrikku ethra chelavaakum?",
+    "meaning": "How much is it per night?",
+    "audioText": "ഒരു രാത്രിക്ക് എത്ര ചെലവാകും?"
+  },
+  {
+    "id": "phrase-finding-accommodation-booking-checking-in-and-out-114",
+    "type": "phrase",
+    "order": 293,
+    "category": "Finding Accommodation, Booking, Checking In & Out",
+    "front": "പ്രഭാതഭക്ഷണം ഉൾപ്പെടുത്തിയിട്ടുണ്ടോ?",
+    "back": "Is breakfast included?",
+    "transliteration": "prabhaathabhakshanam ulppeduthiyittundaaa?",
+    "meaning": "Is breakfast included?",
+    "audioText": "പ്രഭാതഭക്ഷണം ഉൾപ്പെടുത്തിയിട്ടുണ്ടോ?"
+  },
+  {
+    "id": "phrase-finding-accommodation-booking-checking-in-and-out-115",
+    "type": "phrase",
+    "order": 294,
+    "category": "Finding Accommodation, Booking, Checking In & Out",
+    "front": "ദയവായി ഒരു മുറി ബുക്ക് ചെയ്യാൻ ഞാൻ ആഗ്രഹിക്കുന്നു.",
+    "back": "I would like to book a room, please.",
+    "transliteration": "dayavaayi oru muri booku cheyyaan njaan aagrahikkunnu.",
+    "meaning": "I would like to book a room, please.",
+    "audioText": "ദയവായി ഒരു മുറി ബുക്ക് ചെയ്യാൻ ഞാൻ ആഗ്രഹിക്കുന്നു."
+  },
+  {
+    "id": "phrase-finding-accommodation-booking-checking-in-and-out-116",
+    "type": "phrase",
+    "order": 295,
+    "category": "Finding Accommodation, Booking, Checking In & Out",
+    "front": "എനിക്ക് 2 രാത്രികൾ / ആഴ്ചകൾക്കുള്ള റിസർവേഷൻ ഉണ്ട്.",
+    "back": "I have a reservation for 2 nights / weeks.",
+    "transliteration": "enikku 2 raathrikal / aazchakalkkulla recerveshan undu.",
+    "meaning": "I have a reservation for 2 nights / weeks.",
+    "audioText": "എനിക്ക് 2 രാത്രികൾ / ആഴ്ചകൾക്കുള്ള റിസർവേഷൻ ഉണ്ട്."
+  },
+  {
+    "id": "phrase-finding-accommodation-booking-checking-in-and-out-117",
+    "type": "phrase",
+    "order": 296,
+    "category": "Finding Accommodation, Booking, Checking In & Out",
+    "front": "ഇവിടെ വയർലെസ് ഇന്റർനെറ്റ് ആക്സസ് ഉണ്ടോ?",
+    "back": "Is there wireless internet access here?",
+    "transliteration": "evide wirles intarnettu aaksas undo?",
+    "meaning": "Is there wireless internet access here?",
+    "audioText": "ഇവിടെ വയർലെസ് ഇന്റർനെറ്റ് ആക്സസ് ഉണ്ടോ?"
+  },
+  {
+    "id": "phrase-finding-accommodation-booking-checking-in-and-out-118",
+    "type": "phrase",
+    "order": 297,
+    "category": "Finding Accommodation, Booking, Checking In & Out",
+    "front": "നിങ്ങൾക്ക് ഇരട്ട / ഒറ്റ / ഫാമിലി റൂം ഉണ്ടോ?",
+    "back": "Do you have a double / single / family room?",
+    "transliteration": "ningalkku iratta / otta / faamili room undo?",
+    "meaning": "Do you have a double / single / family room?",
+    "audioText": "നിങ്ങൾക്ക് ഇരട്ട / ഒറ്റ / ഫാമിലി റൂം ഉണ്ടോ?"
+  },
+  {
+    "id": "phrase-finding-accommodation-booking-checking-in-and-out-119",
+    "type": "phrase",
+    "order": 298,
+    "category": "Finding Accommodation, Booking, Checking In & Out",
+    "front": "എനിക്ക് മുറി കാണാൻ കഴിയുമോ?",
+    "back": "Can I see the room?",
+    "transliteration": "enikku muri kaanan kazhiyumo?",
+    "meaning": "Can I see the room?",
+    "audioText": "എനിക്ക് മുറി കാണാൻ കഴിയുമോ?"
+  },
+  {
+    "id": "phrase-finding-accommodation-booking-checking-in-and-out-120",
+    "type": "phrase",
+    "order": 299,
+    "category": "Finding Accommodation, Booking, Checking In & Out",
+    "front": "പ്രഭാതഭക്ഷണം എപ്പോൾ/എവിടെയാണ് നൽകുന്നത്?",
+    "back": "When/Where is breakfast served?",
+    "transliteration": "prabhaathabhakshanam appol/evideyaanu nalkunnathu?",
+    "meaning": "When/Where is breakfast served?",
+    "audioText": "പ്രഭാതഭക്ഷണം എപ്പോൾ/എവിടെയാണ് നൽകുന്നത്?"
+  },
+  {
+    "id": "phrase-finding-accommodation-booking-checking-in-and-out-121",
+    "type": "phrase",
+    "order": 300,
+    "category": "Finding Accommodation, Booking, Checking In & Out",
+    "front": "എനിക്ക് അലക്ക് ഉപയോഗിക്കാമോ?",
+    "back": "Can I use the laundry?",
+    "transliteration": "enikku alakku upayogikkaamo?",
+    "meaning": "Can I use the laundry?",
+    "audioText": "എനിക്ക് അലക്ക് ഉപയോഗിക്കാമോ?"
+  },
+  {
+    "id": "phrase-finding-accommodation-booking-checking-in-and-out-122",
+    "type": "phrase",
+    "order": 301,
+    "category": "Finding Accommodation, Booking, Checking In & Out",
+    "front": "നിങ്ങൾ ഇവിടെ ടൂറുകൾ ക്രമീകരിക്കുന്നുണ്ടോ?",
+    "back": "Do you arrange tours here?",
+    "transliteration": "ningal evide toorukal crameekarikkunnundo?",
+    "meaning": "Do you arrange tours here?",
+    "audioText": "നിങ്ങൾ ഇവിടെ ടൂറുകൾ ക്രമീകരിക്കുന്നുണ്ടോ?"
+  },
+  {
+    "id": "phrase-finding-accommodation-booking-checking-in-and-out-123",
+    "type": "phrase",
+    "order": 302,
+    "category": "Finding Accommodation, Booking, Checking In & Out",
+    "front": "എനിക്ക് എന്റെ താക്കോൽ ലഭിക്കുമോ?",
+    "back": "Could I have my key, please?",
+    "transliteration": "enikku ente thaakkol labhikkumo?",
+    "meaning": "Could I have my key, please?",
+    "audioText": "എനിക്ക് എന്റെ താക്കോൽ ലഭിക്കുമോ?"
+  },
+  {
+    "id": "phrase-finding-accommodation-booking-checking-in-and-out-124",
+    "type": "phrase",
+    "order": 303,
+    "category": "Finding Accommodation, Booking, Checking In & Out",
+    "front": "ക്ഷമിക്കണം, എനിക്ക് എന്റെ താക്കോൽ നഷ്ടപ്പെട്ടു!",
+    "back": "Sorry, I lost my key!",
+    "transliteration": "kshamikkanam, enikku ente thaakkol nashtappettu!",
+    "meaning": "Sorry, I lost my key!",
+    "audioText": "ക്ഷമിക്കണം, എനിക്ക് എന്റെ താക്കോൽ നഷ്ടപ്പെട്ടു!"
+  },
+  {
+    "id": "phrase-finding-accommodation-booking-checking-in-and-out-125",
+    "type": "phrase",
+    "order": 304,
+    "category": "Finding Accommodation, Booking, Checking In & Out",
+    "front": "ചൂടുവെള്ളമില്ല.",
+    "back": "There is no hot water.",
+    "transliteration": "chooduvellamilla.",
+    "meaning": "There is no hot water.",
+    "audioText": "ചൂടുവെള്ളമില്ല."
+  },
+  {
+    "id": "phrase-finding-accommodation-booking-checking-in-and-out-126",
+    "type": "phrase",
+    "order": 305,
+    "category": "Finding Accommodation, Booking, Checking In & Out",
+    "front": "എയർ കണ്ടീഷണർ / ഹീറ്റർ / ഫാൻ പ്രവർത്തിക്കുന്നില്ല.",
+    "back": "The air conditioner / heater / fan does not work.",
+    "transliteration": "air kanditionar / heeter / fan pravarthikkunnilla.",
+    "meaning": "The air conditioner / heater / fan does not work.",
+    "audioText": "എയർ കണ്ടീഷണർ / ഹീറ്റർ / ഫാൻ പ്രവർത്തിക്കുന്നില്ല."
+  },
+  {
+    "id": "phrase-finding-accommodation-booking-checking-in-and-out-127",
+    "type": "phrase",
+    "order": 306,
+    "category": "Finding Accommodation, Booking, Checking In & Out",
+    "front": "ഏത് സമയത്താണ് ചെക്ക്ഔട്ട്?",
+    "back": "What time is checkout?",
+    "transliteration": "ethu samayathaanu checouttu?",
+    "meaning": "What time is checkout?",
+    "audioText": "ഏത് സമയത്താണ് ചെക്ക്ഔട്ട്?"
+  },
+  {
+    "id": "phrase-finding-accommodation-booking-checking-in-and-out-128",
+    "type": "phrase",
+    "order": 307,
+    "category": "Finding Accommodation, Booking, Checking In & Out",
+    "front": "ഞാന് ഇപ്പോള് പോവുകയാണ്.",
+    "back": "I am leaving now.",
+    "transliteration": "njanu eppaaalu paaavukayaanu.",
+    "meaning": "I am leaving now.",
+    "audioText": "ഞാന് ഇപ്പോള് പോവുകയാണ്."
+  },
+  {
+    "id": "phrase-finding-accommodation-booking-checking-in-and-out-129",
+    "type": "phrase",
+    "order": 308,
+    "category": "Finding Accommodation, Booking, Checking In & Out",
+    "front": "എനിക്ക് എന്റെ ഡെപ്പോസിറ്റ് ലഭിക്കുമോ?",
+    "back": "Could I have my deposit, please?",
+    "transliteration": "enikku ente depposittu labhikkumo?",
+    "meaning": "Could I have my deposit, please?",
+    "audioText": "എനിക്ക് എന്റെ ഡെപ്പോസിറ്റ് ലഭിക്കുമോ?"
+  },
+  {
+    "id": "phrase-finding-accommodation-booking-checking-in-and-out-130",
+    "type": "phrase",
+    "order": 309,
+    "category": "Finding Accommodation, Booking, Checking In & Out",
+    "front": "എനിക്കായി ഒരു ടാക്സി വിളിക്കാമോ?",
+    "back": "Can you call a taxi for me?",
+    "transliteration": "enikkaayi oru taxi vilikkaamo?",
+    "meaning": "Can you call a taxi for me?",
+    "audioText": "എനിക്കായി ഒരു ടാക്സി വിളിക്കാമോ?"
+  }
+]

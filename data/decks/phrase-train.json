@@ -1,0 +1,57 @@
+[
+  {
+    "id": "phrase-train-95",
+    "type": "phrase",
+    "order": 78,
+    "category": "Train",
+    "front": "ഏറ്റവും അടുത്തുള്ള ഭൂഗർഭ / സബ്‌വേ / മെട്രോ സ്റ്റേഷൻ എവിടെയാണ്?",
+    "back": "Where is the nearest underground / subway / metro station?",
+    "transliteration": "ettavum aduthulla bhoogarbha / sabve / metro station evideyaanu?",
+    "meaning": "Where is the nearest underground / subway / metro station?",
+    "audioText": "ഏറ്റവും അടുത്തുള്ള ഭൂഗർഭ / സബ്‌വേ / മെട്രോ സ്റ്റേഷൻ എവിടെയാണ്?"
+  },
+  {
+    "id": "phrase-train-96",
+    "type": "phrase",
+    "order": 79,
+    "category": "Train",
+    "front": "ഇത് ഏത് സ്റ്റേഷൻ ആണ്?",
+    "back": "What station is this?",
+    "transliteration": "ithu ethu station aanu?",
+    "meaning": "What station is this?",
+    "audioText": "ഇത് ഏത് സ്റ്റേഷൻ ആണ്?"
+  },
+  {
+    "id": "phrase-train-97",
+    "type": "phrase",
+    "order": 80,
+    "category": "Train",
+    "front": "ഏത് പ്ലാറ്റ്‌ഫോമിൽ നിന്നാണ് ട്രെയിൻ പുറപ്പെടുന്നത്?",
+    "back": "Which platform does the train leave from?",
+    "transliteration": "ethu plattfomil ninnaanu train purappedunnathu?",
+    "meaning": "Which platform does the train leave from?",
+    "audioText": "ഏത് പ്ലാറ്റ്‌ഫോമിൽ നിന്നാണ് ട്രെയിൻ പുറപ്പെടുന്നത്?"
+  },
+  {
+    "id": "phrase-train-98",
+    "type": "phrase",
+    "order": 81,
+    "category": "Train",
+    "front": "അങ്കമാലി റെയിൽവേ സ്റ്റേഷനിലേക്ക് പോകുന്ന ട്രെയിൻ ഏതാണ്?",
+    "back": "Which train goes to Angamaly Railway Station?",
+    "transliteration": "ankamaali reyilve stationilekku pokunna train ethaanu?",
+    "meaning": "Which train goes to Angamaly Railway Station?",
+    "audioText": "അങ്കമാലി റെയിൽവേ സ്റ്റേഷനിലേക്ക് പോകുന്ന ട്രെയിൻ ഏതാണ്?"
+  },
+  {
+    "id": "phrase-train-99",
+    "type": "phrase",
+    "order": 82,
+    "category": "Train",
+    "front": "എനിക്ക് ട്രെയിനുകൾ മാറ്റേണ്ടതുണ്ടോ?",
+    "back": "Do I need to change trains?",
+    "transliteration": "enikku trainukal mattendathundo?",
+    "meaning": "Do I need to change trains?",
+    "audioText": "എനിക്ക് ട്രെയിനുകൾ മാറ്റേണ്ടതുണ്ടോ?"
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "id": "phrase-camping-131",
+    "type": "phrase",
+    "order": 94,
+    "category": "Camping",
+    "front": "ഏറ്റവും അടുത്തുള്ള ക്യാമ്പ് സൈറ്റ് എവിടെയാണ്?",
+    "back": "Where is the nearest camp site?",
+    "transliteration": "ettavum aduthulla cambu sittu evideyaanu?",
+    "meaning": "Where is the nearest camp site?",
+    "audioText": "ഏറ്റവും അടുത്തുള്ള ക്യാമ്പ് സൈറ്റ് എവിടെയാണ്?"
+  },
+  {
+    "id": "phrase-camping-132",
+    "type": "phrase",
+    "order": 95,
+    "category": "Camping",
+    "front": "എനിക്ക് ഇവിടെ ക്യാമ്പ് ചെയ്യാമോ?",
+    "back": "Can I camp here?",
+    "transliteration": "enikku evide cambu cheyyaamo?",
+    "meaning": "Can I camp here?",
+    "audioText": "എനിക്ക് ഇവിടെ ക്യാമ്പ് ചെയ്യാമോ?"
+  },
+  {
+    "id": "phrase-camping-133",
+    "type": "phrase",
+    "order": 96,
+    "category": "Camping",
+    "front": "ഇവിടെ നിൽക്കാൻ ഞാൻ ആരോട് ആവശ്യപ്പെടും?",
+    "back": "Who do I ask to stay here?",
+    "transliteration": "evide nilkkan njaan aarodu aavashyappedum?",
+    "meaning": "Who do I ask to stay here?",
+    "audioText": "ഇവിടെ നിൽക്കാൻ ഞാൻ ആരോട് ആവശ്യപ്പെടും?"
+  },
+  {
+    "id": "phrase-camping-134",
+    "type": "phrase",
+    "order": 97,
+    "category": "Camping",
+    "front": "ഈ വെള്ളം കുടിക്കാമോ?",
+    "back": "Is the water drinkable?",
+    "transliteration": "ee vellam kudikkaamo?",
+    "meaning": "Is the water drinkable?",
+    "audioText": "ഈ വെള്ളം കുടിക്കാമോ?"
+  },
+  {
+    "id": "phrase-camping-135",
+    "type": "phrase",
+    "order": 98,
+    "category": "Camping",
+    "front": "ഒരു കാരവൻ / കൂടാരത്തിന് നിങ്ങൾ എത്രയാണ് ഈടാക്കുന്നത്?",
+    "back": "How much do you charge for a caravan / tent?",
+    "transliteration": "oru kaaravan / koodaarathinu ningal ethrayaanu eedaakkunnathu?",
+    "meaning": "How much do you charge for a caravan / tent?",
+    "audioText": "ഒരു കാരവൻ / കൂടാരത്തിന് നിങ്ങൾ എത്രയാണ് ഈടാക്കുന്നത്?"
+  },
+  {
+    "id": "phrase-camping-136",
+    "type": "phrase",
+    "order": 99,
+    "category": "Camping",
+    "front": "ഗ്യാസ് സിലിണ്ടർ / സ്ലീപ്പിംഗ് ബാഗ് / ടെന്റ് / ടോർച്ച്",
+    "back": "Gas cylinder / Sleeping bag / Tent / Torch",
+    "transliteration": "gyaas silindar / sleeping baag / tent / torchu",
+    "meaning": "Gas cylinder / Sleeping bag / Tent / Torch",
+    "audioText": "ഗ്യാസ് സിലിണ്ടർ / സ്ലീപ്പിംഗ് ബാഗ് / ടെന്റ് / ടോർച്ച്"
+  }
+]

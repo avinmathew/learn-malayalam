@@ -1,0 +1,134 @@
+[
+  {
+    "id": "phrase-taxi-105",
+    "type": "phrase",
+    "order": 32,
+    "category": "Taxi",
+    "front": "ഇതിനു എന്ത് വില വരും?",
+    "back": "How much does this cost?",
+    "transliteration": "ithinu enthu vila varum?",
+    "meaning": "How much does this cost?",
+    "audioText": "ഇതിനു എന്ത് വില വരും?"
+  },
+  {
+    "id": "phrase-taxi-100",
+    "type": "phrase",
+    "order": 83,
+    "category": "Taxi",
+    "front": "എനിക്ക് (2pm) ഒരു ടാക്സി വേണം",
+    "back": "I would like a taxi at (2pm)",
+    "transliteration": "enikku (2pm) oru taxi venam",
+    "meaning": "I would like a taxi at (2pm)",
+    "audioText": "എനിക്ക് (2pm) ഒരു ടാക്സി വേണം"
+  },
+  {
+    "id": "phrase-taxi-101",
+    "type": "phrase",
+    "order": 84,
+    "category": "Taxi",
+    "front": "ടാക്സി സ്റ്റാന്റ് എവിടെയാണ്?",
+    "back": "Where is the taxi stand?",
+    "transliteration": "taxi stand evideyaanu?",
+    "meaning": "Where is the taxi stand?",
+    "audioText": "ടാക്സി സ്റ്റാന്റ് എവിടെയാണ്?"
+  },
+  {
+    "id": "phrase-taxi-102",
+    "type": "phrase",
+    "order": 85,
+    "category": "Taxi",
+    "front": "ദയവായി എന്നെ (ഈ വിലാസത്തിലേക്ക്) കൊണ്ടുപോകൂ",
+    "back": "Please take me to (this address).",
+    "transliteration": "dayavaayi enne (ee vilaasathilekku) kondupoku",
+    "meaning": "Please take me to (this address).",
+    "audioText": "ദയവായി എന്നെ (ഈ വിലാസത്തിലേക്ക്) കൊണ്ടുപോകൂ"
+  },
+  {
+    "id": "phrase-taxi-103",
+    "type": "phrase",
+    "order": 86,
+    "category": "Taxi",
+    "front": "ദയവായി എന്നെ [റെസ്റ്റോറന്റ്/ഹോട്ടൽ/ഷോപ്പിലേക്ക്] കൊണ്ടുപോകാമോ?",
+    "back": "Could you please take me to [restaurant/hotel/shop], please?",
+    "transliteration": "dayavaayi enne [restoranat/hottal/shoppilekku] kondupogamo?",
+    "meaning": "Could you please take me to [restaurant/hotel/shop], please?",
+    "audioText": "ദയവായി എന്നെ [റെസ്റ്റോറന്റ്/ഹോട്ടൽ/ഷോപ്പിലേക്ക്] കൊണ്ടുപോകാമോ?"
+  },
+  {
+    "id": "phrase-taxi-104",
+    "type": "phrase",
+    "order": 87,
+    "category": "Taxi",
+    "front": "ദയവായി എന്നെ എയർപോർട്ട്/ട്രെയിൻ സ്റ്റേഷൻ/ബസ് സ്റ്റേഷനിലേക്ക് കൊണ്ടുപോകാമോ?",
+    "back": "Could you please take me to the airport/train station/bus station?",
+    "transliteration": "dayavaayi enne airporttu/train station/bas stationilekku kondupogamo?",
+    "meaning": "Could you please take me to the airport/train station/bus station?",
+    "audioText": "ദയവായി എന്നെ എയർപോർട്ട്/ട്രെയിൻ സ്റ്റേഷൻ/ബസ് സ്റ്റേഷനിലേക്ക് കൊണ്ടുപോകാമോ?"
+  },
+  {
+    "id": "phrase-taxi-106",
+    "type": "phrase",
+    "order": 88,
+    "category": "Taxi",
+    "front": "വില ചർച്ച ചെയ്യാവുന്നതാണോ?",
+    "back": "Is the price negotiable?",
+    "transliteration": "[lakshyam] ethaan ethra samayamedukkum?",
+    "meaning": "Is the price negotiable?",
+    "audioText": "വില ചർച്ച ചെയ്യാവുന്നതാണോ?"
+  },
+  {
+    "id": "phrase-taxi-107",
+    "type": "phrase",
+    "order": 89,
+    "category": "Taxi",
+    "front": "എനിക്ക് ഒരു കിഴിവ് തരാമോ?",
+    "back": "Can you give me a discount?",
+    "transliteration": "enikku oru kizhivu tharaamo?",
+    "meaning": "Can you give me a discount?",
+    "audioText": "എനിക്ക് ഒരു കിഴിവ് തരാമോ?"
+  },
+  {
+    "id": "phrase-taxi-108",
+    "type": "phrase",
+    "order": 90,
+    "category": "Taxi",
+    "front": "ദയവായി മീറ്റർ ഓണാക്കുക.",
+    "back": "Please turn on the meter.",
+    "transliteration": "dayavaayi meter onakkuka.",
+    "meaning": "Please turn on the meter.",
+    "audioText": "ദയവായി മീറ്റർ ഓണാക്കുക."
+  },
+  {
+    "id": "phrase-taxi-109",
+    "type": "phrase",
+    "order": 91,
+    "category": "Taxi",
+    "front": "[ലക്ഷ്യം] എത്താൻ എത്ര സമയമെടുക്കും?",
+    "back": "How long will it take to get to [destination]?",
+    "transliteration": "[lakshyam] athaan ethra samayamedukkum?",
+    "meaning": "How long will it take to get to [destination]?",
+    "audioText": "[ലക്ഷ്യം] എത്താൻ എത്ര സമയമെടുക്കും?"
+  },
+  {
+    "id": "phrase-taxi-110",
+    "type": "phrase",
+    "order": 92,
+    "category": "Taxi",
+    "front": "ഇവിടെ നിർത്തുക.",
+    "back": "Stop here.",
+    "transliteration": "evide nirthuka.",
+    "meaning": "Stop here.",
+    "audioText": "ഇവിടെ നിർത്തുക."
+  },
+  {
+    "id": "phrase-taxi-111",
+    "type": "phrase",
+    "order": 93,
+    "category": "Taxi",
+    "front": "ദയവായി എനിക്ക് ഒരു രസീത് തരാമോ?",
+    "back": "Can you give me a receipt, please?",
+    "transliteration": "dayavaayi enikku oru raseethu tharaamo?",
+    "meaning": "Can you give me a receipt, please?",
+    "audioText": "ദയവായി എനിക്ക് ഒരു രസീത് തരാമോ?"
+  }
+]

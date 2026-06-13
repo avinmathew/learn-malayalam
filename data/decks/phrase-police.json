@@ -1,0 +1,112 @@
+[
+  {
+    "id": "phrase-police-168",
+    "type": "phrase",
+    "order": 129,
+    "category": "Police",
+    "front": "പോലീസ് സ്റ്റേഷൻ എവിടെയാണ്?",
+    "back": "Where is the police station?",
+    "transliteration": "police station evideyaanu?",
+    "meaning": "Where is the police station?",
+    "audioText": "പോലീസ് സ്റ്റേഷൻ എവിടെയാണ്?"
+  },
+  {
+    "id": "phrase-police-169",
+    "type": "phrase",
+    "order": 130,
+    "category": "Police",
+    "front": "ഒരു കവർച്ച റിപ്പോർട്ട് ചെയ്യാൻ ഞാൻ ആഗ്രഹിക്കുന്നു.",
+    "back": "I want to report a robbery.",
+    "transliteration": "oru kavarcha repporttu cheyyaan njaan aagrahikkunnu.",
+    "meaning": "I want to report a robbery.",
+    "audioText": "ഒരു കവർച്ച റിപ്പോർട്ട് ചെയ്യാൻ ഞാൻ ആഗ്രഹിക്കുന്നു."
+  },
+  {
+    "id": "phrase-police-170",
+    "type": "phrase",
+    "order": 131,
+    "category": "Police",
+    "front": "ഞാൻ കൊള്ളയടിക്കപ്പെട്ടിരിക്കുന്നു.",
+    "back": "I have been robbed.",
+    "transliteration": "njaan kollayadikkappettirikkunnu.",
+    "meaning": "I have been robbed.",
+    "audioText": "ഞാൻ കൊള്ളയടിക്കപ്പെട്ടിരിക്കുന്നു."
+  },
+  {
+    "id": "phrase-police-171",
+    "type": "phrase",
+    "order": 132,
+    "category": "Police",
+    "front": "അവൻ/അവൾ ആക്രമിക്കപ്പെട്ടു.",
+    "back": "He/She has been assaulted.",
+    "transliteration": "avan/aval aakramikkappettu.",
+    "meaning": "He/She has been assaulted.",
+    "audioText": "അവൻ/അവൾ ആക്രമിക്കപ്പെട്ടു."
+  },
+  {
+    "id": "phrase-police-172",
+    "type": "phrase",
+    "order": 133,
+    "category": "Police",
+    "front": "എന്റെ വാലറ്റ് മോഷ്ടിക്കപ്പെട്ടു.",
+    "back": "My wallet was stolen.",
+    "transliteration": "ente vaalattu moshtikkappettu.",
+    "meaning": "My wallet was stolen.",
+    "audioText": "എന്റെ വാലറ്റ് മോഷ്ടിക്കപ്പെട്ടു."
+  },
+  {
+    "id": "phrase-police-173",
+    "type": "phrase",
+    "order": 134,
+    "category": "Police",
+    "front": "എനിക്ക് എന്റെ ... നഷ്ടപ്പെട്ടു.",
+    "back": "I have lost my ...",
+    "transliteration": "enikku ente ... nashtappettu.",
+    "meaning": "I have lost my ...",
+    "audioText": "എനിക്ക് എന്റെ ... നഷ്ടപ്പെട്ടു."
+  },
+  {
+    "id": "phrase-police-174",
+    "type": "phrase",
+    "order": 135,
+    "category": "Police",
+    "front": "അവൾ എന്നെ തെറ്റായി കുറ്റപ്പെടുത്തിയിരിക്കുന്നു.",
+    "back": "I have been wrongly accused by her.",
+    "transliteration": "aval enne thettaayi kuttappeduthiyirikkunnu.",
+    "meaning": "I have been wrongly accused by her.",
+    "audioText": "അവൾ എന്നെ തെറ്റായി കുറ്റപ്പെടുത്തിയിരിക്കുന്നു."
+  },
+  {
+    "id": "phrase-police-175",
+    "type": "phrase",
+    "order": 136,
+    "category": "Police",
+    "front": "എനിക്ക് ആരെയെങ്കിലും വിളിക്കാമോ?",
+    "back": "Can I call someone?",
+    "transliteration": "enikku aareyengilum vilikkaamo?",
+    "meaning": "Can I call someone?",
+    "audioText": "എനിക്ക് ആരെയെങ്കിലും വിളിക്കാമോ?"
+  },
+  {
+    "id": "phrase-police-176",
+    "type": "phrase",
+    "order": 137,
+    "category": "Police",
+    "front": "എനിക്ക് ഒരു അഭിഭാഷകനെ വിളിക്കാമോ?",
+    "back": "Can I call a lawyer?",
+    "transliteration": "enikku oru abhibhashakane vilikkaamo?",
+    "meaning": "Can I call a lawyer?",
+    "audioText": "എനിക്ക് ഒരു അഭിഭാഷകനെ വിളിക്കാമോ?"
+  },
+  {
+    "id": "phrase-police-177",
+    "type": "phrase",
+    "order": 138,
+    "category": "Police",
+    "front": "എനിക്ക് എന്റെ എംബസിയുമായി ബന്ധപ്പെടണം.",
+    "back": "I want to contact my embassy.",
+    "transliteration": "enikku ente embasiyumaayi bandhappedanam.",
+    "meaning": "I want to contact my embassy.",
+    "audioText": "എനിക്ക് എന്റെ എംബസിയുമായി ബന്ധപ്പെടണം."
+  }
+]

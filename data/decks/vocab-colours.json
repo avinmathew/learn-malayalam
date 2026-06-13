@@ -1,0 +1,98 @@
+[
+  {
+    "id": "vocab-colours-white",
+    "type": "vocab",
+    "order": 306,
+    "category": "Colours",
+    "front": "വെള്ള",
+    "back": "White",
+    "transliteration": "veḷḷa",
+    "meaning": "White",
+    "imagePath": "/vocab-images/colours/white.png",
+    "audioText": "വെള്ള"
+  },
+  {
+    "id": "vocab-colours-black",
+    "type": "vocab",
+    "order": 307,
+    "category": "Colours",
+    "front": "കറുപ്പ്",
+    "back": "Black",
+    "transliteration": "kaṟuppu",
+    "meaning": "Black",
+    "imagePath": "/vocab-images/colours/black.png",
+    "audioText": "കറുപ്പ്"
+  },
+  {
+    "id": "vocab-colours-blue",
+    "type": "vocab",
+    "order": 308,
+    "category": "Colours",
+    "front": "നീല",
+    "back": "Blue",
+    "transliteration": "nīla",
+    "meaning": "Blue",
+    "imagePath": "/vocab-images/colours/blue.png",
+    "audioText": "നീല"
+  },
+  {
+    "id": "vocab-colours-green",
+    "type": "vocab",
+    "order": 309,
+    "category": "Colours",
+    "front": "പച്ച",
+    "back": "Green",
+    "transliteration": "pacca",
+    "meaning": "Green",
+    "imagePath": "/vocab-images/colours/green.png",
+    "audioText": "പച്ച"
+  },
+  {
+    "id": "vocab-colours-red",
+    "type": "vocab",
+    "order": 310,
+    "category": "Colours",
+    "front": "ചുവപ്പ്",
+    "back": "Red",
+    "transliteration": "cuvappŭ",
+    "meaning": "Red",
+    "imagePath": "/vocab-images/colours/red.png",
+    "audioText": "ചുവപ്പ്"
+  },
+  {
+    "id": "vocab-colours-pink",
+    "type": "vocab",
+    "order": 311,
+    "category": "Colours",
+    "front": "പിങ്ക്",
+    "back": "Pink",
+    "transliteration": "pinkŭ",
+    "meaning": "Pink",
+    "imagePath": "/vocab-images/colours/pink.png",
+    "audioText": "പിങ്ക്"
+  },
+  {
+    "id": "vocab-colours-yellow",
+    "type": "vocab",
+    "order": 312,
+    "category": "Colours",
+    "front": "മഞ്ഞ",
+    "back": "Yellow",
+    "transliteration": "mañña",
+    "meaning": "Yellow",
+    "imagePath": "/vocab-images/colours/yellow.png",
+    "audioText": "മഞ്ഞ"
+  },
+  {
+    "id": "vocab-colours-orange",
+    "type": "vocab",
+    "order": 313,
+    "category": "Colours",
+    "front": "ഓറഞ്ച്",
+    "back": "Orange",
+    "transliteration": "ōṟañjŭ",
+    "meaning": "Orange",
+    "imagePath": "/vocab-images/colours/orange.png",
+    "audioText": "ഓറഞ്ച്"
+  }
+]

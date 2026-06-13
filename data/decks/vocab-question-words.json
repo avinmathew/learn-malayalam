@@ -1,0 +1,86 @@
+[
+  {
+    "id": "vocab-question-words-what",
+    "type": "vocab",
+    "order": 12,
+    "category": "Question Words",
+    "front": "എന്ത്",
+    "back": "What",
+    "transliteration": "Endŭ",
+    "meaning": "What",
+    "imagePath": "/vocab-images/question-words/what.png",
+    "audioText": "എന്ത്"
+  },
+  {
+    "id": "vocab-question-words-where",
+    "type": "vocab",
+    "order": 13,
+    "category": "Question Words",
+    "front": "എവിടെ",
+    "back": "Where",
+    "transliteration": "Eviḍe",
+    "meaning": "Where",
+    "imagePath": "/vocab-images/question-words/where.png",
+    "audioText": "എവിടെ"
+  },
+  {
+    "id": "vocab-question-words-how",
+    "type": "vocab",
+    "order": 14,
+    "category": "Question Words",
+    "front": "എങ്ങനെ",
+    "back": "How",
+    "transliteration": "Engane",
+    "meaning": "How",
+    "imagePath": "/vocab-images/question-words/how.png",
+    "audioText": "എങ്ങനെ"
+  },
+  {
+    "id": "vocab-question-words-how-much",
+    "type": "vocab",
+    "order": 15,
+    "category": "Question Words",
+    "front": "എത്ര",
+    "back": "How much",
+    "transliteration": "Etra",
+    "meaning": "How much",
+    "imagePath": "/vocab-images/question-words/how-much.png",
+    "audioText": "എത്ര"
+  },
+  {
+    "id": "vocab-question-words-when",
+    "type": "vocab",
+    "order": 16,
+    "category": "Question Words",
+    "front": "പ്പോൾ",
+    "back": "When",
+    "transliteration": "Eppōḷ",
+    "meaning": "When",
+    "imagePath": "/vocab-images/question-words/when.png",
+    "audioText": "പ്പോൾ"
+  },
+  {
+    "id": "vocab-question-words-why",
+    "type": "vocab",
+    "order": 17,
+    "category": "Question Words",
+    "front": "എന്തിനു",
+    "back": "Why",
+    "transliteration": "Endinu",
+    "meaning": "Why",
+    "imagePath": "/vocab-images/question-words/why.png",
+    "audioText": "എന്തിനു"
+  },
+  {
+    "id": "vocab-question-words-who",
+    "type": "vocab",
+    "order": 18,
+    "category": "Question Words",
+    "front": "ആര്",
+    "back": "Who",
+    "transliteration": "Ārŭ",
+    "meaning": "Who",
+    "imagePath": "/vocab-images/question-words/who.png",
+    "audioText": "ആര്"
+  }
+]

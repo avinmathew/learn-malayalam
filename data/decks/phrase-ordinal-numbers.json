@@ -1,0 +1,112 @@
+[
+  {
+    "id": "phrase-ordinal-numbers-311",
+    "type": "phrase",
+    "order": 272,
+    "category": "Ordinal Numbers",
+    "front": "ആദ്യം (1st)",
+    "back": "First (1<sup>st</sup>)",
+    "transliteration": "aadyam",
+    "meaning": "First (1<sup>st</sup>)",
+    "audioText": "ആദ്യം (1st)"
+  },
+  {
+    "id": "phrase-ordinal-numbers-312",
+    "type": "phrase",
+    "order": 273,
+    "category": "Ordinal Numbers",
+    "front": "രണ്ടാമത്തേത് (2nd)",
+    "back": "Second (2<sup>nd</sup>)",
+    "transliteration": "randaamathethu",
+    "meaning": "Second (2<sup>nd</sup>)",
+    "audioText": "രണ്ടാമത്തേത് (2nd)"
+  },
+  {
+    "id": "phrase-ordinal-numbers-313",
+    "type": "phrase",
+    "order": 274,
+    "category": "Ordinal Numbers",
+    "front": "മൂന്നാമത് (3rd)",
+    "back": "Third (3<sup>rd</sup>)",
+    "transliteration": "moonnaamathu",
+    "meaning": "Third (3<sup>rd</sup>)",
+    "audioText": "മൂന്നാമത് (3rd)"
+  },
+  {
+    "id": "phrase-ordinal-numbers-314",
+    "type": "phrase",
+    "order": 275,
+    "category": "Ordinal Numbers",
+    "front": "നാലാമത്തേത് (4th)",
+    "back": "Fourth (4<sup>th</sup>)",
+    "transliteration": "naalaamathethu",
+    "meaning": "Fourth (4<sup>th</sup>)",
+    "audioText": "നാലാമത്തേത് (4th)"
+  },
+  {
+    "id": "phrase-ordinal-numbers-315",
+    "type": "phrase",
+    "order": 276,
+    "category": "Ordinal Numbers",
+    "front": "അഞ്ചാമത് (5th)",
+    "back": "Fifth (5<sup>th</sup>)",
+    "transliteration": "anchaamathu",
+    "meaning": "Fifth (5<sup>th</sup>)",
+    "audioText": "അഞ്ചാമത് (5th)"
+  },
+  {
+    "id": "phrase-ordinal-numbers-316",
+    "type": "phrase",
+    "order": 277,
+    "category": "Ordinal Numbers",
+    "front": "ആറാമത് (6th)",
+    "back": "Sixth (6<sup>th</sup>)",
+    "transliteration": "aaramathu",
+    "meaning": "Sixth (6<sup>th</sup>)",
+    "audioText": "ആറാമത് (6th)"
+  },
+  {
+    "id": "phrase-ordinal-numbers-317",
+    "type": "phrase",
+    "order": 278,
+    "category": "Ordinal Numbers",
+    "front": "ഏഴാമത്തേത് (7th)",
+    "back": "Seventh (7<sup>th</sup>)",
+    "transliteration": "ezhaamathethu",
+    "meaning": "Seventh (7<sup>th</sup>)",
+    "audioText": "ഏഴാമത്തേത് (7th)"
+  },
+  {
+    "id": "phrase-ordinal-numbers-318",
+    "type": "phrase",
+    "order": 279,
+    "category": "Ordinal Numbers",
+    "front": "എട്ടാമത്തേത് (8th)",
+    "back": "Eighth (8<sup>th</sup>)",
+    "transliteration": "ettaamathethu",
+    "meaning": "Eighth (8<sup>th</sup>)",
+    "audioText": "എട്ടാമത്തേത് (8th)"
+  },
+  {
+    "id": "phrase-ordinal-numbers-319",
+    "type": "phrase",
+    "order": 280,
+    "category": "Ordinal Numbers",
+    "front": "ഒമ്പതാമത് (9th)",
+    "back": "Ninth (9<sup>th</sup>)",
+    "transliteration": "ombathaamathu",
+    "meaning": "Ninth (9<sup>th</sup>)",
+    "audioText": "ഒമ്പതാമത് (9th)"
+  },
+  {
+    "id": "phrase-ordinal-numbers-320",
+    "type": "phrase",
+    "order": 281,
+    "category": "Ordinal Numbers",
+    "front": "പത്താം (10th)",
+    "back": "Tenth (10<sup>th</sup>)",
+    "transliteration": "pathaam",
+    "meaning": "Tenth (10<sup>th</sup>)",
+    "audioText": "പത്താം (10th)"
+  }
+]

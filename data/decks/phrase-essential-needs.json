@@ -1,0 +1,57 @@
+[
+  {
+    "id": "phrase-essential-needs-i-need-water",
+    "type": "phrase",
+    "order": 14,
+    "category": "Essential Needs",
+    "front": "എനിക്ക് വെള്ളം വേണം",
+    "back": "I need water",
+    "transliteration": "enikku vellam venam",
+    "meaning": "I need water",
+    "audioText": "എനിക്ക് വെള്ളം വേണം"
+  },
+  {
+    "id": "phrase-essential-needs-im-hungry",
+    "type": "phrase",
+    "order": 15,
+    "category": "Essential Needs",
+    "front": "എനിക്ക് വിശക്കുന്നു",
+    "back": "I'm hungry",
+    "transliteration": "enikku vishakkunnu",
+    "meaning": "I'm hungry",
+    "audioText": "എനിക്ക് വിശക്കുന്നു"
+  },
+  {
+    "id": "phrase-essential-needs-can-i-get-some-food",
+    "type": "phrase",
+    "order": 16,
+    "category": "Essential Needs",
+    "front": "കുറച്ച് ഭക്ഷണം കിട്ടുമോ?",
+    "back": "Can I get some food?",
+    "transliteration": "kurachu bhakshanam kitttumo?",
+    "meaning": "Can I get some food?",
+    "audioText": "കുറച്ച് ഭക്ഷണം കിട്ടുമോ?"
+  },
+  {
+    "id": "phrase-essential-needs-i-want-hot-water",
+    "type": "phrase",
+    "order": 17,
+    "category": "Essential Needs",
+    "front": "എനിക്ക് ചൂടുവെള്ളം വേണം",
+    "back": "I want hot water",
+    "transliteration": "enikku chooduvellam venam",
+    "meaning": "I want hot water",
+    "audioText": "എനിക്ക് ചൂടുവെള്ളം വേണം"
+  },
+  {
+    "id": "phrase-essential-needs-where-is-the-toilet",
+    "type": "phrase",
+    "order": 18,
+    "category": "Essential Needs",
+    "front": "ടോയ്‌ലെറ്റ് എവിടെ?",
+    "back": "Where is the toilet?",
+    "transliteration": "toilet evide?",
+    "meaning": "Where is the toilet?",
+    "audioText": "ടോയ്‌ലെറ്റ് എവിടെ?"
+  }
+]

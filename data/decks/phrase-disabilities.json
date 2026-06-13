@@ -1,0 +1,79 @@
+[
+  {
+    "id": "phrase-disabilities-198",
+    "type": "phrase",
+    "order": 159,
+    "category": "Disabilities",
+    "front": "എനിക്ക് ഒരു വൈകല്യമുണ്ട്.",
+    "back": "I have a disability.",
+    "transliteration": "enikku oru vaikalyamundu.",
+    "meaning": "I have a disability.",
+    "audioText": "എനിക്ക് ഒരു വൈകല്യമുണ്ട്."
+  },
+  {
+    "id": "phrase-disabilities-199",
+    "type": "phrase",
+    "order": 160,
+    "category": "Disabilities",
+    "front": "എനിക്ക് സഹായം വേണം.",
+    "back": "I need assistance.",
+    "transliteration": "enikku sahaayam venam.",
+    "meaning": "I need assistance.",
+    "audioText": "എനിക്ക് സഹായം വേണം."
+  },
+  {
+    "id": "phrase-disabilities-200",
+    "type": "phrase",
+    "order": 161,
+    "category": "Disabilities",
+    "front": "വീൽചെയർ ആക്സസ് ഉണ്ടോ?",
+    "back": "Is there a wheelchair access?",
+    "transliteration": "veelchair aaksas undo?",
+    "meaning": "Is there a wheelchair access?",
+    "audioText": "വീൽചെയർ ആക്സസ് ഉണ്ടോ?"
+  },
+  {
+    "id": "phrase-disabilities-201",
+    "type": "phrase",
+    "order": 162,
+    "category": "Disabilities",
+    "front": "ഒരു വികലാംഗ ടോയ്‌ലറ്റ് ഉണ്ടോ?",
+    "back": "Is there a disabled toilet?",
+    "transliteration": "oru vikalaamga toyletu undo?",
+    "meaning": "Is there a disabled toilet?",
+    "audioText": "ഒരു വികലാംഗ ടോയ്‌ലറ്റ് ഉണ്ടോ?"
+  },
+  {
+    "id": "phrase-disabilities-202",
+    "type": "phrase",
+    "order": 163,
+    "category": "Disabilities",
+    "front": "ലിഫ്റ്റ് ഉണ്ടോ?",
+    "back": "Is there a lift?",
+    "transliteration": "liftu undo?",
+    "meaning": "Is there a lift?",
+    "audioText": "ലിഫ്റ്റ് ഉണ്ടോ?"
+  },
+  {
+    "id": "phrase-disabilities-203",
+    "type": "phrase",
+    "order": 164,
+    "category": "Disabilities",
+    "front": "ഈ തെരുവ് കടക്കാൻ എന്നെ സഹായിക്കാമോ?",
+    "back": "Could you help me cross this street?",
+    "transliteration": "ee theruvu kadakkan enne sahaayikkaamo?",
+    "meaning": "Could you help me cross this street?",
+    "audioText": "ഈ തെരുവ് കടക്കാൻ എന്നെ സഹായിക്കാമോ?"
+  },
+  {
+    "id": "phrase-disabilities-204",
+    "type": "phrase",
+    "order": 165,
+    "category": "Disabilities",
+    "front": "വീൽചെയർ സ്ഥലമുണ്ടോ?",
+    "back": "Is there a wheelchair space?",
+    "transliteration": "veelchair sthalamundo?",
+    "meaning": "Is there a wheelchair space?",
+    "audioText": "വീൽചെയർ സ്ഥലമുണ്ടോ?"
+  }
+]

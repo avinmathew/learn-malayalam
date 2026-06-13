@@ -1,0 +1,21 @@
+{
+  "name": "learn-malayalam",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Malayalam spaced repetition flashcards MVP",
+  "workspaces": [
+    "apps/web",
+    "apps/api"
+  ],
+  "scripts": {
+    "dev": "concurrently -n api,web -c cyan,yellow \"npm run dev --workspace api\" \"npm run dev --workspace web\"",
+    "dev:web": "npm run dev --workspace web",
+    "dev:api": "npm run dev --workspace api",
+    "build": "npm run build --workspace api && npm run build --workspace web",
+    "start": "npm run start --workspace api",
+    "lint": "npm run lint --workspace web"
+  },
+  "devDependencies": {
+    "concurrently": "^9.2.1"
+  }
+}

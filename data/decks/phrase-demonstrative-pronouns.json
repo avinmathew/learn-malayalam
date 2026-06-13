@@ -1,0 +1,79 @@
+[
+  {
+    "id": "phrase-demonstrative-pronouns-69",
+    "type": "phrase",
+    "order": 52,
+    "category": "Demonstrative Pronouns",
+    "front": "ഇത്",
+    "back": "This",
+    "transliteration": "ithu",
+    "meaning": "This",
+    "audioText": "ഇത്"
+  },
+  {
+    "id": "phrase-demonstrative-pronouns-70",
+    "type": "phrase",
+    "order": 53,
+    "category": "Demonstrative Pronouns",
+    "front": "അത്",
+    "back": "That (distal)",
+    "transliteration": "athu",
+    "meaning": "That (distal)",
+    "audioText": "അത്"
+  },
+  {
+    "id": "phrase-demonstrative-pronouns-71",
+    "type": "phrase",
+    "order": 54,
+    "category": "Demonstrative Pronouns",
+    "front": "ഇവര്‍",
+    "back": "These (referring to people)",
+    "transliteration": "ivar",
+    "meaning": "These (referring to people)",
+    "audioText": "ഇവര്‍"
+  },
+  {
+    "id": "phrase-demonstrative-pronouns-72",
+    "type": "phrase",
+    "order": 55,
+    "category": "Demonstrative Pronouns",
+    "front": "അവര്‍",
+    "back": "Those (referring to people)",
+    "transliteration": "avar",
+    "meaning": "Those (referring to people)",
+    "audioText": "അവര്‍"
+  },
+  {
+    "id": "phrase-demonstrative-pronouns-73",
+    "type": "phrase",
+    "order": 56,
+    "category": "Demonstrative Pronouns",
+    "front": "ഇതിന്‍",
+    "back": "To this",
+    "transliteration": "ithin",
+    "meaning": "To this",
+    "audioText": "ഇതിന്‍"
+  },
+  {
+    "id": "phrase-demonstrative-pronouns-74",
+    "type": "phrase",
+    "order": 57,
+    "category": "Demonstrative Pronouns",
+    "front": "അതിന്‍",
+    "back": "To that",
+    "transliteration": "athin",
+    "meaning": "To that",
+    "audioText": "അതിന്‍"
+  },
+  {
+    "id": "phrase-demonstrative-pronouns-75",
+    "type": "phrase",
+    "order": 58,
+    "category": "Demonstrative Pronouns",
+    "front": "അവര്‍ക്ക്",
+    "back": "To them",
+    "transliteration": "avarkku",
+    "meaning": "To them",
+    "audioText": "അവര്‍ക്ക്"
+  }
+]

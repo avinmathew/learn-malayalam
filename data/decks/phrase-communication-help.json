@@ -1,0 +1,68 @@
+[
+  {
+    "id": "phrase-communication-help-i-dont-know-malayalam",
+    "type": "phrase",
+    "order": 8,
+    "category": "Communication Help",
+    "front": "ഞാൻ മലയാളം അറിയില്ല",
+    "back": "I don't know Malayalam",
+    "transliteration": "nyaan malayalam ariyilla",
+    "meaning": "I don't know Malayalam",
+    "audioText": "ഞാൻ മലയാളം അറിയില്ല"
+  },
+  {
+    "id": "phrase-communication-help-i-dont-understand-malayalam",
+    "type": "phrase",
+    "order": 9,
+    "category": "Communication Help",
+    "front": "എനിക്ക് മലയാളം മനസ്സിലാകുന്നില്ല",
+    "back": "I don't understand Malayalam",
+    "transliteration": "enikku malayalam manassilaakunilla",
+    "meaning": "I don't understand Malayalam",
+    "audioText": "എനിക്ക് മലയാളം മനസ്സിലാകുന്നില്ല"
+  },
+  {
+    "id": "phrase-communication-help-do-you-speak-english",
+    "type": "phrase",
+    "order": 10,
+    "category": "Communication Help",
+    "front": "നിങ്ങൾക്ക് ഇംഗ്ലീഷ് അറിയാമോ?",
+    "back": "Do you speak English?",
+    "transliteration": "ningalkku english ariyamo?",
+    "meaning": "Do you speak English?",
+    "audioText": "നിങ്ങൾക്ക് ഇംഗ്ലീഷ് അറിയാമോ?"
+  },
+  {
+    "id": "phrase-communication-help-please-speak-slowly",
+    "type": "phrase",
+    "order": 11,
+    "category": "Communication Help",
+    "front": "ദയവായി പതുക്കെ പറയൂ",
+    "back": "Please speak slowly",
+    "transliteration": "dayavayi pathukke parayoo",
+    "meaning": "Please speak slowly",
+    "audioText": "ദയവായി പതുക്കെ പറയൂ"
+  },
+  {
+    "id": "phrase-communication-help-can-you-write-it-down",
+    "type": "phrase",
+    "order": 12,
+    "category": "Communication Help",
+    "front": "ഇത് എഴുതി തരാമോ?",
+    "back": "Can you write it down?",
+    "transliteration": "ithu ezhuthi tharaamo?",
+    "meaning": "Can you write it down?",
+    "audioText": "ഇത് എഴുതി തരാമോ?"
+  },
+  {
+    "id": "phrase-communication-help-im-a-tourist",
+    "type": "phrase",
+    "order": 13,
+    "category": "Communication Help",
+    "front": "ഞാൻ ഒരു വിനോദസഞ്ചാരിയാണ്",
+    "back": "I'm a tourist",
+    "transliteration": "nyaan oru vinodasanchaariyaan",
+    "meaning": "I'm a tourist",
+    "audioText": "ഞാൻ ഒരു വിനോദസഞ്ചാരിയാണ്"
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "id": "phrase-shopping-basics-this-is-too-expensive",
+    "type": "phrase",
+    "order": 24,
+    "category": "Shopping Basics",
+    "front": "ഇത് വളരെ ചെലവാണ്",
+    "back": "This is too expensive",
+    "transliteration": "ithu valare chelavaan",
+    "meaning": "This is too expensive",
+    "audioText": "ഇത് വളരെ ചെലവാണ്"
+  },
+  {
+    "id": "phrase-shopping-basics-final-price-please",
+    "type": "phrase",
+    "order": 25,
+    "category": "Shopping Basics",
+    "front": "അവസാന വില പറയൂ",
+    "back": "Final price please",
+    "transliteration": "avasaana vila parayoo",
+    "meaning": "Final price please",
+    "audioText": "അവസാന വില പറയൂ"
+  },
+  {
+    "id": "phrase-shopping-basics-ill-buy-this",
+    "type": "phrase",
+    "order": 26,
+    "category": "Shopping Basics",
+    "front": "ഞാൻ ഇത് വാങ്ങാം",
+    "back": "I'll buy this",
+    "transliteration": "nyaan ithu vaangaam",
+    "meaning": "I'll buy this",
+    "audioText": "ഞാൻ ഇത് വാങ്ങാം"
+  }
+]

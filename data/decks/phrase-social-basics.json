@@ -1,0 +1,79 @@
+[
+  {
+    "id": "phrase-social-basics-how-are-you",
+    "type": "phrase",
+    "order": 1,
+    "category": "Social Basics",
+    "front": "നിങ്ങള്‍ എങ്ങനെയിരിക്കുന്നു?",
+    "back": "How are you?",
+    "transliteration": "ningal enganeyirikkunnu?",
+    "meaning": "How are you?",
+    "audioText": "നിങ്ങള്‍ എങ്ങനെയിരിക്കുന്നു?"
+  },
+  {
+    "id": "phrase-social-basics-my-name-is",
+    "type": "phrase",
+    "order": 2,
+    "category": "Social Basics",
+    "front": "എന്‍റെ പേര് എന്നാണ്...",
+    "back": "My name is...",
+    "transliteration": "ente peru ennaanu...",
+    "meaning": "My name is...",
+    "audioText": "എന്‍റെ പേര് എന്നാണ്..."
+  },
+  {
+    "id": "phrase-social-basics-please",
+    "type": "phrase",
+    "order": 3,
+    "category": "Social Basics",
+    "front": "ദയവായി",
+    "back": "Please",
+    "transliteration": "dayavayi",
+    "meaning": "Please",
+    "audioText": "ദയവായി"
+  },
+  {
+    "id": "phrase-social-basics-thank-you-very-much",
+    "type": "phrase",
+    "order": 4,
+    "category": "Social Basics",
+    "front": "വളരെ നന്ദി",
+    "back": "Thank you very much",
+    "transliteration": "valare nandi",
+    "meaning": "Thank you very much",
+    "audioText": "വളരെ നന്ദി"
+  },
+  {
+    "id": "phrase-social-basics-sorry",
+    "type": "phrase",
+    "order": 5,
+    "category": "Social Basics",
+    "front": "ക്ഷമിക്കണം",
+    "back": "Sorry",
+    "transliteration": "kshemikkanam",
+    "meaning": "Sorry",
+    "audioText": "ക്ഷമിക്കണം"
+  },
+  {
+    "id": "phrase-social-basics-excuse-me",
+    "type": "phrase",
+    "order": 6,
+    "category": "Social Basics",
+    "front": "എക്സ്ക്യൂസ് മി",
+    "back": "Excuse me",
+    "transliteration": "excuse me",
+    "meaning": "Excuse me",
+    "audioText": "എക്സ്ക്യൂസ് മി"
+  },
+  {
+    "id": "phrase-social-basics-you-are-very-kind",
+    "type": "phrase",
+    "order": 7,
+    "category": "Social Basics",
+    "front": "നിങ്ങൾ വളരെ നല്ലവരാണ്",
+    "back": "You're very kind",
+    "transliteration": "ningal valare nallavaraan",
+    "meaning": "You're very kind",
+    "audioText": "നിങ്ങൾ വളരെ നല്ലവരാണ്"
+  }
+]

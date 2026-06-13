@@ -1,0 +1,101 @@
+[
+  {
+    "id": "phrase-possessive-pronouns-60",
+    "type": "phrase",
+    "order": 43,
+    "category": "Possessive Pronouns",
+    "front": "എന്റെ",
+    "back": "My / Mine",
+    "transliteration": "ente",
+    "meaning": "My / Mine",
+    "audioText": "എന്റെ"
+  },
+  {
+    "id": "phrase-possessive-pronouns-61",
+    "type": "phrase",
+    "order": 44,
+    "category": "Possessive Pronouns",
+    "front": "നിന്റെ",
+    "back": "Your / Yours (singular)",
+    "transliteration": "ninte",
+    "meaning": "Your / Yours (singular)",
+    "audioText": "നിന്റെ"
+  },
+  {
+    "id": "phrase-possessive-pronouns-62",
+    "type": "phrase",
+    "order": 45,
+    "category": "Possessive Pronouns",
+    "front": "അവന്റെ",
+    "back": "His",
+    "transliteration": "avante",
+    "meaning": "His",
+    "audioText": "അവന്റെ"
+  },
+  {
+    "id": "phrase-possessive-pronouns-63",
+    "type": "phrase",
+    "order": 46,
+    "category": "Possessive Pronouns",
+    "front": "അവളുടെ",
+    "back": "Her",
+    "transliteration": "avalude",
+    "meaning": "Her",
+    "audioText": "അവളുടെ"
+  },
+  {
+    "id": "phrase-possessive-pronouns-64",
+    "type": "phrase",
+    "order": 47,
+    "category": "Possessive Pronouns",
+    "front": "അതിന്റെ",
+    "back": "Its",
+    "transliteration": "athinte",
+    "meaning": "Its",
+    "audioText": "അതിന്റെ"
+  },
+  {
+    "id": "phrase-possessive-pronouns-65",
+    "type": "phrase",
+    "order": 48,
+    "category": "Possessive Pronouns",
+    "front": "നമ്മുടെ",
+    "back": "Our / Ours",
+    "transliteration": "nammude",
+    "meaning": "Our / Ours",
+    "audioText": "നമ്മുടെ"
+  },
+  {
+    "id": "phrase-possessive-pronouns-66",
+    "type": "phrase",
+    "order": 49,
+    "category": "Possessive Pronouns",
+    "front": "നിങ്ങളുടെ",
+    "back": "Your / Yours (plural)",
+    "transliteration": "ningalude",
+    "meaning": "Your / Yours (plural)",
+    "audioText": "നിങ്ങളുടെ"
+  },
+  {
+    "id": "phrase-possessive-pronouns-67",
+    "type": "phrase",
+    "order": 50,
+    "category": "Possessive Pronouns",
+    "front": "അവരുടെ",
+    "back": "Their",
+    "transliteration": "avarude",
+    "meaning": "Their",
+    "audioText": "അവരുടെ"
+  },
+  {
+    "id": "phrase-possessive-pronouns-68",
+    "type": "phrase",
+    "order": 51,
+    "category": "Possessive Pronouns",
+    "front": "ഇവരുടെ",
+    "back": "Their (near)",
+    "transliteration": "ivarude",
+    "meaning": "Their (near)",
+    "audioText": "ഇവരുടെ"
+  }
+]

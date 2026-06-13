@@ -1,0 +1,101 @@
+[
+  {
+    "id": "phrase-amount-321",
+    "type": "phrase",
+    "order": 282,
+    "category": "Amount",
+    "front": "കുറവ്",
+    "back": "Less",
+    "transliteration": "kuravu",
+    "meaning": "Less",
+    "audioText": "കുറവ്"
+  },
+  {
+    "id": "phrase-amount-322",
+    "type": "phrase",
+    "order": 283,
+    "category": "Amount",
+    "front": "കൂടുതൽ",
+    "back": "More",
+    "transliteration": "kooduthal",
+    "meaning": "More",
+    "audioText": "കൂടുതൽ"
+  },
+  {
+    "id": "phrase-amount-323",
+    "type": "phrase",
+    "order": 284,
+    "category": "Amount",
+    "front": "1/2 (അര)",
+    "back": "1/2 (a half)",
+    "transliteration": "1/2 (ara)",
+    "meaning": "1/2 (a half)",
+    "audioText": "1/2 (അര)"
+  },
+  {
+    "id": "phrase-amount-324",
+    "type": "phrase",
+    "order": 285,
+    "category": "Amount",
+    "front": "1/4 (പാദം)",
+    "back": "1/4 (a quarter)",
+    "transliteration": "1/4 (paadam)",
+    "meaning": "1/4 (a quarter)",
+    "audioText": "1/4 (പാദം)"
+  },
+  {
+    "id": "phrase-amount-325",
+    "type": "phrase",
+    "order": 286,
+    "category": "Amount",
+    "front": "1/3 (മൂന്നാം ഭാഗം)",
+    "back": "1/3 (a third)",
+    "transliteration": "1/3 (moonnaam bhagam)",
+    "meaning": "1/3 (a third)",
+    "audioText": "1/3 (മൂന്നാം ഭാഗം)"
+  },
+  {
+    "id": "phrase-amount-326",
+    "type": "phrase",
+    "order": 287,
+    "category": "Amount",
+    "front": "എല്ലാം / ഒന്നുമില്ല",
+    "back": "All / None",
+    "transliteration": "allam / onnumilla",
+    "meaning": "All / None",
+    "audioText": "എല്ലാം / ഒന്നുമില്ല"
+  },
+  {
+    "id": "phrase-amount-327",
+    "type": "phrase",
+    "order": 288,
+    "category": "Amount",
+    "front": "ചില / പല",
+    "back": "Some / Many",
+    "transliteration": "chila / pala",
+    "meaning": "Some / Many",
+    "audioText": "ചില / പല"
+  },
+  {
+    "id": "phrase-amount-328",
+    "type": "phrase",
+    "order": 289,
+    "category": "Amount",
+    "front": "എത്രമാത്രം?",
+    "back": "How Much?",
+    "transliteration": "ethramaathram?",
+    "meaning": "How Much?",
+    "audioText": "എത്രമാത്രം?"
+  },
+  {
+    "id": "phrase-amount-329",
+    "type": "phrase",
+    "order": 290,
+    "category": "Amount",
+    "front": "എത്ര?",
+    "back": "How Many?",
+    "transliteration": "ethra?",
+    "meaning": "How Many?",
+    "audioText": "എത്ര?"
+  }
+]

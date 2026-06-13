@@ -1,0 +1,86 @@
+[
+  {
+    "id": "vocab-days-of-the-week-sunday",
+    "type": "vocab",
+    "order": 145,
+    "category": "Days of the Week",
+    "front": "ഞായറാഴ്ച",
+    "back": "Sunday",
+    "transliteration": "njāyaṟazhca",
+    "meaning": "Sunday",
+    "imagePath": "/vocab-images/days-of-the-week/sunday.png",
+    "audioText": "ഞായറാഴ്ച"
+  },
+  {
+    "id": "vocab-days-of-the-week-monday",
+    "type": "vocab",
+    "order": 146,
+    "category": "Days of the Week",
+    "front": "തിങ്കളാഴ്ച",
+    "back": "Monday",
+    "transliteration": "tinkaḷāzhca",
+    "meaning": "Monday",
+    "imagePath": "/vocab-images/days-of-the-week/monday.png",
+    "audioText": "തിങ്കളാഴ്ച"
+  },
+  {
+    "id": "vocab-days-of-the-week-tuesday",
+    "type": "vocab",
+    "order": 147,
+    "category": "Days of the Week",
+    "front": "ചൊവ്വാഴ്ച",
+    "back": "Tuesday",
+    "transliteration": "coṟṟāzhca",
+    "meaning": "Tuesday",
+    "imagePath": "/vocab-images/days-of-the-week/tuesday.png",
+    "audioText": "ചൊവ്വാഴ്ച"
+  },
+  {
+    "id": "vocab-days-of-the-week-wednesday",
+    "type": "vocab",
+    "order": 148,
+    "category": "Days of the Week",
+    "front": "ബുധനാഴ്ച",
+    "back": "Wednesday",
+    "transliteration": "budhanāzhca",
+    "meaning": "Wednesday",
+    "imagePath": "/vocab-images/days-of-the-week/wednesday.png",
+    "audioText": "ബുധനാഴ്ച"
+  },
+  {
+    "id": "vocab-days-of-the-week-thursday",
+    "type": "vocab",
+    "order": 149,
+    "category": "Days of the Week",
+    "front": "വ്യാഴാഴ്ച",
+    "back": "Thursday",
+    "transliteration": "vyāzhāzhca",
+    "meaning": "Thursday",
+    "imagePath": "/vocab-images/days-of-the-week/thursday.png",
+    "audioText": "വ്യാഴാഴ്ച"
+  },
+  {
+    "id": "vocab-days-of-the-week-friday",
+    "type": "vocab",
+    "order": 150,
+    "category": "Days of the Week",
+    "front": "വെള്ളിയാഴ്ച",
+    "back": "Friday",
+    "transliteration": "veḷḷiyāzhca",
+    "meaning": "Friday",
+    "imagePath": "/vocab-images/days-of-the-week/friday.png",
+    "audioText": "വെള്ളിയാഴ്ച"
+  },
+  {
+    "id": "vocab-days-of-the-week-saturday",
+    "type": "vocab",
+    "order": 151,
+    "category": "Days of the Week",
+    "front": "ശനിയാഴ്ച",
+    "back": "Saturday",
+    "transliteration": "shaniyāzhca",
+    "meaning": "Saturday",
+    "imagePath": "/vocab-images/days-of-the-week/saturday.png",
+    "audioText": "ശനിയാഴ്ച"
+  }
+]
