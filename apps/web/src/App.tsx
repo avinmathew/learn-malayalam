@@ -6,6 +6,7 @@ import { BrowserRouter, Link, Navigate, Route, Routes, useLocation } from 'react
 import { AuthProvider, useAuth } from './context/AuthContext'
 import { FlashcardsProvider } from './context/FlashcardsContext'
 import { SettingsProvider } from './context/SettingsContext'
+import { APP_BASE_PATH } from './lib/base'
 import { CourseOutlinePage } from './pages/CourseOutlinePage'
 import { ReviewPage } from './pages/ReviewPage'
 import { SettingsPage } from './pages/SettingsPage'
@@ -175,7 +176,7 @@ function Shell() {
 
 function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename={APP_BASE_PATH || undefined}>
       <AuthProvider>
         <SettingsProvider>
           <FlashcardsProvider>

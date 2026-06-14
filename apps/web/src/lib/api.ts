@@ -1,11 +1,13 @@
 import type { AuthSessionPayload, Card, CardsPayload, ReviewRating, UserSettings } from '../types'
 
+import { buildAppPath } from './base'
+
 const JSON_HEADERS = {
   'Content-Type': 'application/json',
 }
 
 async function requestJson<T>(path: string, init?: RequestInit): Promise<T> {
-  const response = await fetch(`/api${path}`, {
+  const response = await fetch(buildAppPath(`/api${path}`), {
     ...init,
     credentials: 'include',
     headers: {
@@ -27,7 +29,7 @@ export function fetchCardsRequest(): Promise<CardsPayload> {
 }
 
 export function buildCardAudioRequestPath(cardId: string): string {
-  return `/api/cards/${encodeURIComponent(cardId)}/audio`
+  return buildAppPath(`/api/cards/${encodeURIComponent(cardId)}/audio`)
 }
 
 export function fetchAuthSessionRequest(): Promise<AuthSessionPayload> {

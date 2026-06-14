@@ -1,5 +1,6 @@
 import { useRef } from 'react'
 
+import { resolveAppAssetPath } from '../lib/base'
 import type { Card } from '../types'
 
 import { AudioButton } from './AudioButton'
@@ -24,6 +25,7 @@ export function ReviewCard({ card, flipped, onFlip, onPlayAudio }: ReviewCardPro
   const transliterationLabel = card.type === 'phrase' ? 'Manglish' : 'Transliteration'
   const pointerStartRef = useRef<{ pointerId: number; x: number; y: number; time: number } | null>(null)
   const showImage = card.type === 'vocab' && Boolean(card.imagePath)
+  const imagePath = resolveAppAssetPath(card.imagePath)
   const imageAlt = promptText
   const promptTextSizeClass =
     card.type === 'phrase' ? 'text-[clamp(1.9rem,7vw,3.4rem)]' : 'text-[clamp(3rem,10vw,5.8rem)]'
@@ -103,7 +105,7 @@ export function ReviewCard({ card, flipped, onFlip, onPlayAudio }: ReviewCardPro
                 <div className="flex w-full max-w-full flex-col items-center justify-center gap-4">
                   {showImage ? (
                     <img
-                      src={card.imagePath}
+                      src={imagePath}
                       alt={imageAlt}
                       className="max-h-32 w-full max-w-[11rem] rounded-[1.4rem] object-contain shadow-[0_14px_30px_rgba(21,41,38,0.12)]"
                     />
@@ -138,7 +140,7 @@ export function ReviewCard({ card, flipped, onFlip, onPlayAudio }: ReviewCardPro
                 <div className={`flex items-center gap-4 ${showImage ? 'sm:flex-row' : ''}`}>
                   {showImage ? (
                     <img
-                      src={card.imagePath}
+                      src={imagePath}
                       alt={imageAlt}
                       className="mx-auto max-h-20 w-full max-w-[7rem] shrink-0 rounded-[1.2rem] object-contain sm:mx-0"
                     />

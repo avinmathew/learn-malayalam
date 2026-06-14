@@ -1,8 +1,11 @@
 const CACHE_NAME = 'learn-malayalam-shell-v1'
+const scopeUrl = new URL(self.registration.scope)
+const appIndexUrl = new URL('index.html', scopeUrl).toString()
+const appShellUrls = [scopeUrl.toString(), appIndexUrl]
 
 self.addEventListener('install', (event) => {
   event.waitUntil(
-    caches.open(CACHE_NAME).then((cache) => cache.addAll(['/', '/index.html'])),
+    caches.open(CACHE_NAME).then((cache) => cache.addAll(appShellUrls)),
   )
   self.skipWaiting()
 })
@@ -32,10 +35,10 @@ self.addEventListener('fetch', (event) => {
       if (event.request.mode === 'navigate') {
         try {
           const networkResponse = await fetch(event.request)
-          cache.put('/index.html', networkResponse.clone())
+          cache.put(appIndexUrl, networkResponse.clone())
           return networkResponse
         } catch {
-          return cache.match('/index.html')
+          return cache.match(appIndexUrl)
         }
       }
 
