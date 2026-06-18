@@ -3,6 +3,7 @@ import type { Card, CardState, CardStats, CardType, UserSettings } from '../type
 export type StudyBucket = 'new' | 'learn' | 'due' | 'hidden'
 export interface StudyQueueOptions {
   includeFuture?: boolean
+  sessionSeed?: string
 }
 
 const ANKI_LEARNING_LOOKAHEAD_MINUTES = 20
@@ -244,6 +245,65 @@ export function sortCardsByCurriculumOrder(cards: Card[]): Card[] {
   )
 }
 
+function hashString(value: string): number {
+  let hash = 2166136261
+
+  for (let index = 0; index < value.length; index += 1) {
+    hash ^= value.charCodeAt(index)
+    hash = Math.imul(hash, 16777619)
+  }
+
+  return hash >>> 0
+}
+
+function getSessionShuffleRank(card: Card, sessionSeed: string, groupKey: string): number {
+  return hashString(`${sessionSeed}:${groupKey}:${card.id}`)
+}
+
+function shuffleStudyGroup(cards: Card[], sessionSeed: string, groupKey: string, preserveLeadingCard = false): Card[] {
+  if (cards.length < 2) {
+    return cards
+  }
+
+  const leadingCard = preserveLeadingCard ? cards[0] : undefined
+  const sortableCards = preserveLeadingCard ? cards.slice(1) : cards
+  const shuffledCards = [...sortableCards].sort(
+    (left, right) =>
+      getSessionShuffleRank(left, sessionSeed, groupKey) - getSessionShuffleRank(right, sessionSeed, groupKey) ||
+      (left.order ?? Number.MAX_SAFE_INTEGER) - (right.order ?? Number.MAX_SAFE_INTEGER) ||
+      left.front.localeCompare(right.front, 'ml'),
+  )
+
+  return leadingCard ? [leadingCard, ...shuffledCards] : shuffledCards
+}
+
+function shuffleStudyQueue(cards: Card[], sessionSeed: string, now = new Date()): Card[] {
+  if (cards.length < 2) {
+    return cards
+  }
+
+  const shuffledQueue: Card[] = []
+  let groupStart = 0
+
+  while (groupStart < cards.length) {
+    const groupKey = toDateKey(new Date(cards[groupStart].nextReviewDate))
+    let groupEnd = groupStart + 1
+
+    while (groupEnd < cards.length && toDateKey(new Date(cards[groupEnd].nextReviewDate)) === groupKey) {
+      groupEnd += 1
+    }
+
+    const group = cards.slice(groupStart, groupEnd)
+    // Preserve the leading new card so course lessons still appear at curriculum boundaries.
+    const preserveLeadingCard = groupStart === 0 && getStudyBucket(group[0], now) === 'new'
+
+    shuffledQueue.push(...shuffleStudyGroup(group, sessionSeed, groupKey, preserveLeadingCard))
+    groupStart = groupEnd
+  }
+
+  return shuffledQueue
+}
+
 function getVisibleDueCardIds(cards: Card[], settings: UserSettings, now = new Date()): Set<string> {
   const today = toDateKey(now)
   const normalizedSettings = normalizeUserSettings(settings)
@@ -319,7 +379,7 @@ export function getStudyQueue(
   )
 
   if (dueQueue.length > 0 || !deckType) {
-    return dueQueue
+    return options.sessionSeed ? shuffleStudyQueue(dueQueue, options.sessionSeed, now) : dueQueue
   }
 
   if (options.includeFuture) {

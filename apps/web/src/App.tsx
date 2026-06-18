@@ -68,7 +68,7 @@ function Shell() {
   return (
     <div className="relative flex min-h-svh flex-col overflow-hidden text-[var(--ink)]">
       <div className="pointer-events-none absolute inset-x-0 top-0 h-72 bg-[radial-gradient(circle_at_top_left,_rgba(10,132,255,0.18),_transparent_50%),radial-gradient(circle_at_top_right,_rgba(90,200,250,0.16),_transparent_40%)]" />
-      <div className="mx-auto flex w-full max-w-5xl flex-1 flex-col px-4 pb-10 pt-4 sm:px-6 lg:px-8">
+      <div className="app-shell mx-auto flex w-full max-w-5xl flex-1 flex-col px-4 pt-4 sm:px-6 lg:px-8">
         {showHeader ? (
           <header className="relative z-30 rounded-[1.35rem] border border-white/75 bg-white/72 px-5 py-3 shadow-[0_20px_55px_rgba(15,23,42,0.08)] backdrop-blur-xl">
             <div className="flex items-start justify-between gap-3 sm:items-center">
@@ -160,7 +160,7 @@ function Shell() {
           </header>
         ) : null}
 
-        <main className="relative z-10 flex-1 py-6">
+        <main className="relative z-10 flex-1">
           <Routes>
             <Route path="/" element={<ReviewPage />} />
             <Route path="/course" element={<CourseOutlinePage />} />

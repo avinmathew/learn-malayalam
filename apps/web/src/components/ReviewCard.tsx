@@ -28,10 +28,10 @@ export function ReviewCard({ card, flipped, onFlip, onPlayAudio }: ReviewCardPro
   const imagePath = resolveAppAssetPath(card.imagePath)
   const imageAlt = promptText
   const promptTextSizeClass =
-    card.type === 'phrase' ? 'text-[clamp(1.9rem,7vw,3.4rem)]' : 'text-[clamp(3rem,10vw,5.8rem)]'
+    card.type === 'phrase' ? 'text-[clamp(1.6rem,6vw,2.8rem)]' : 'text-[clamp(2.4rem,8vw,4.8rem)]'
   const promptTextClassName = promptUsesMalayalamText
-    ? `malayalam-text ${promptTextSizeClass} font-medium leading-tight text-balance text-slate-950`
-    : `${promptTextSizeClass} max-w-full font-semibold leading-tight text-balance text-slate-950`
+    ? `review-card-copy review-card-copy--malayalam malayalam-text ${promptTextSizeClass} font-medium leading-tight text-balance text-slate-950`
+    : `review-card-copy ${promptTextSizeClass} max-w-full font-semibold leading-tight text-balance text-slate-950`
 
   function isInteractiveTarget(target: EventTarget | null): boolean {
     return target instanceof HTMLElement && Boolean(target.closest('button, a, input, textarea, select, label'))
@@ -146,7 +146,7 @@ export function ReviewCard({ card, flipped, onFlip, onPlayAudio }: ReviewCardPro
                     />
                   ) : null}
 
-                  <p className="malayalam-text flex-1 text-[clamp(1.9rem,7vw,3.4rem)] font-medium leading-tight text-balance">
+                  <p className="review-card-copy review-card-copy--malayalam malayalam-text min-w-0 flex-1 text-[clamp(1.6rem,6vw,2.8rem)] font-medium leading-tight text-balance">
                     {answerText}
                   </p>
                 </div>
@@ -158,13 +158,13 @@ export function ReviewCard({ card, flipped, onFlip, onPlayAudio }: ReviewCardPro
                 {card.transliteration ? (
                   <div className="rounded-[1.3rem] border border-white/10 bg-white/6 p-4">
                     <p className="text-xs font-semibold uppercase tracking-[0.22em] text-white/65">{transliterationLabel}</p>
-                    <p className="mt-2 text-lg font-medium text-white/95">{card.transliteration}</p>
+                    <p className="review-card-copy mt-2 text-lg font-medium text-white/95">{card.transliteration}</p>
                   </div>
                 ) : null}
 
                 <div className="rounded-[1.3rem] border border-white/10 bg-white/6 p-4">
                   <p className="text-xs font-semibold uppercase tracking-[0.22em] text-white/65">{meaningLabel}</p>
-                  <p className="mt-2 text-lg font-medium text-white/95">{meaningText}</p>
+                  <p className="review-card-copy mt-2 text-lg font-medium text-white/95">{meaningText}</p>
                 </div>
               </div>
 
@@ -178,7 +178,7 @@ export function ReviewCard({ card, flipped, onFlip, onPlayAudio }: ReviewCardPro
               {card.example ? (
                 <div className="rounded-[1.3rem] border border-white/10 bg-white/6 p-4">
                   <p className="text-xs font-semibold uppercase tracking-[0.22em] text-white/65">Example word</p>
-                  <p className="malayalam-text mt-2 text-xl font-medium text-white sm:text-2xl">{card.example}</p>
+                  <p className="review-card-copy review-card-copy--malayalam malayalam-text mt-2 text-xl font-medium text-white sm:text-2xl">{card.example}</p>
                 </div>
               ) : null}
 

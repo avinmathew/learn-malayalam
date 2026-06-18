@@ -9,6 +9,8 @@
   --lagoon-soft: #d7efe8;
   --coral: #f57a5d;
   --sun: #f2b544;
+  --safe-area-top: env(safe-area-inset-top, 0px);
+  --safe-area-bottom: env(safe-area-inset-bottom, 0px);
   color-scheme: light;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
   background: var(--paper);
@@ -62,6 +64,41 @@ a {
 
 #root {
   min-height: 100svh;
+}
+
+.app-shell {
+  padding-bottom: calc(var(--safe-area-bottom) + 2.5rem);
+}
+
+.review-action-bar {
+  position: sticky;
+  bottom: calc(var(--safe-area-bottom) + 0.75rem);
+  z-index: 20;
+  margin-inline: -0.5rem;
+  padding: 0rem 0.5rem calc(var(--safe-area-bottom) + 0.25rem);
+}
+
+@media (min-width: 640px) {
+  .review-action-bar {
+    position: static;
+    bottom: auto;
+    margin-inline: 0;
+    border-radius: 0;
+    background: transparent;
+    padding: 0;
+    box-shadow: none;
+    backdrop-filter: none;
+  }
+}
+
+.review-card-copy {
+  max-inline-size: 100%;
+  overflow-wrap: anywhere;
+  word-break: normal;
+}
+
+.review-card-copy--malayalam {
+  line-break: anywhere;
 }
 
 .malayalam-text {

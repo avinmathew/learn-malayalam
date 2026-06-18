@@ -12,9 +12,11 @@ import { getCachedSpeechFile } from './tts.js'
 import type { Card, NewCardInput, ReviewRating, UserSettings } from './types.js'
 
 const app = express()
+const api = express.Router()
 const port = Number(process.env.PORT ?? 3001)
 const currentDir = path.dirname(fileURLToPath(import.meta.url))
 const webDistDir = path.resolve(currentDir, '../../web/dist')
+const appBasePath = '/learn-malayalam'
 
 app.use(cors())
 app.use(express.json())
@@ -23,18 +25,18 @@ app.use((req, res, next) => {
   next()
 })
 
-app.get('/api/health', (_req, res) => {
+api.get('/health', (_req, res) => {
   res.json({ ok: true })
 })
 
-app.get('/api/auth/me', (_req, res) => {
+api.get('/auth/me', (_req, res) => {
   res.json({
     user: res.locals.user ?? null,
     googleClientConfigured: isGoogleAuthConfigured(),
   })
 })
 
-app.post('/api/auth/google', async (req, res) => {
+api.post('/auth/google', async (req, res) => {
   const { credential } = req.body as { credential?: string }
 
   if (!credential) {
@@ -50,12 +52,12 @@ app.post('/api/auth/google', async (req, res) => {
   })
 })
 
-app.post('/api/auth/logout', (_req, res) => {
+api.post('/auth/logout', (_req, res) => {
   res.setHeader('Set-Cookie', clearSessionCookie())
   res.status(204).end()
 })
 
-app.get('/api/users/settings', async (_req, res) => {
+api.get('/users/settings', async (_req, res) => {
   const userId = res.locals.user?.id
 
   if (!userId) {
@@ -66,7 +68,7 @@ app.get('/api/users/settings', async (_req, res) => {
   res.json(await getUserSettings(userId))
 })
 
-app.put('/api/users/settings', async (req, res) => {
+api.put('/users/settings', async (req, res) => {
   const userId = res.locals.user?.id
 
   if (!userId) {
@@ -78,18 +80,18 @@ app.put('/api/users/settings', async (req, res) => {
   res.json(await updateUserSettings(userId, payload as UserSettings))
 })
 
-app.get('/api/cards', async (_req, res) => {
+api.get('/cards', async (_req, res) => {
   const payload = await getCardsPayload(res.locals.user?.id)
   res.json(payload)
 })
 
-app.get('/api/stats', async (_req, res) => {
+api.get('/stats', async (_req, res) => {
   const cards = await getCards(res.locals.user?.id)
   const settings = await getUserSettings(res.locals.user?.id)
   res.json(getCardStats(cards, settings))
 })
 
-app.get('/api/cards/:cardId/audio', async (req, res) => {
+api.get('/cards/:cardId/audio', async (req, res) => {
   const cards = await getCards(res.locals.user?.id)
   const card = cards.find((candidate) => candidate.id === req.params.cardId)
 
@@ -106,7 +108,7 @@ app.get('/api/cards/:cardId/audio', async (req, res) => {
   res.sendFile(filePath)
 })
 
-app.post('/api/cards', async (req, res) => {
+api.post('/cards', async (req, res) => {
   const payload = req.body as NewCardInput
 
   if (!payload?.type || !payload?.front) {
@@ -118,7 +120,7 @@ app.post('/api/cards', async (req, res) => {
   res.status(201).json(card)
 })
 
-app.post('/api/cards/sync', async (req, res) => {
+api.post('/cards/sync', async (req, res) => {
   const payload = req.body as Card
 
   if (!payload?.id || !payload?.type || !payload?.front || !payload?.audioText) {
@@ -130,7 +132,7 @@ app.post('/api/cards/sync', async (req, res) => {
   res.status(201).json(card)
 })
 
-app.post('/api/reviews', async (req, res) => {
+api.post('/reviews', async (req, res) => {
   const { cardId, rating } = req.body as { cardId?: string; rating?: number }
 
   if (!cardId || rating === undefined || ![0, 1, 2, 3].includes(rating)) {
@@ -142,11 +144,23 @@ app.post('/api/reviews', async (req, res) => {
   res.json(card)
 })
 
+app.use('/api', api)
+app.use(`${appBasePath}/api`, api)
+
 if (existsSync(webDistDir)) {
-  app.use(express.static(webDistDir))
+  app.get('/', (_req, res) => {
+    res.redirect(302, `${appBasePath}/`)
+  })
+
+  app.use(appBasePath, express.static(webDistDir))
 
   app.use((req, res, next) => {
-    if (req.method !== 'GET' || req.path.startsWith('/api')) {
+    if (req.method !== 'GET' || req.path.startsWith('/api') || req.path.startsWith(`${appBasePath}/api`)) {
+      next()
+      return
+    }
+
+    if (!req.path.startsWith(appBasePath)) {
       next()
       return
     }

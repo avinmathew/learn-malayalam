@@ -52,6 +52,10 @@ const stateBadgeClassNames = {
   review: 'bg-[rgba(52,199,89,0.16)] text-[rgb(36,138,61)]',
 } as const
 
+function createStudySessionSeed(): string {
+  return globalThis.crypto?.randomUUID?.() ?? `${Date.now()}-${Math.random().toString(36).slice(2)}`
+}
+
 function isCardType(value: string | null): value is CardType {
   return value === 'letter' || value === 'vocab' || value === 'phrase'
 }
@@ -66,9 +70,13 @@ export function ReviewPage() {
   const [isPending, startTransition] = useTransition()
   const deckParam = searchParams.get('deck')
   const selectedDeck: CardType | null = isCardType(deckParam) ? deckParam : null
+  const studySessionSeed = useMemo(
+    () => `${selectedDeck ?? 'all'}:${createStudySessionSeed()}`,
+    [selectedDeck],
+  )
   const normalDeckQueue = useMemo(
-    () => (selectedDeck ? getStudyQueue(cards, selectedDeck, settings) : []),
-    [cards, selectedDeck, settings],
+    () => (selectedDeck ? getStudyQueue(cards, selectedDeck, settings, { sessionSeed: studySessionSeed }) : []),
+    [cards, selectedDeck, settings, studySessionSeed],
   )
   const studyAheadCandidates = useMemo(
     () => (selectedDeck ? getStudyQueue(cards, selectedDeck, settings, { includeFuture: true }) : []),
@@ -217,9 +225,9 @@ export function ReviewPage() {
 
   if (!selectedDeck) {
     return (
-      <>
+      <div className="mt-4">
         <section className="rounded-[1.75rem] border border-white/75 bg-white/78 p-5 shadow-[0_18px_50px_rgba(15,23,42,0.08)] backdrop-blur-xl sm:p-6">
-          <div className="mt-6 grid gap-3">
+          <div className="grid gap-4">
             {deckOrder.map((type) => {
               const metadata = deckMeta[type]
               const summary = stats.byType[type]
@@ -283,7 +291,7 @@ export function ReviewPage() {
             })}
           </div>
         </section>
-      </>
+      </div>
     )
   }
 
@@ -365,7 +373,7 @@ export function ReviewPage() {
               onPlayAudio={() => playAudio(currentCard)}
             />
 
-            <div className="mt-6 border-t border-[rgba(60,60,67,0.12)] pt-6">
+            <div className="mt-6">
               {!flipped ? (
                 <div className="flex justify-center">
                   <button
@@ -378,7 +386,7 @@ export function ReviewPage() {
                 </div>
               ) : (
                 <div>
-                  <div className="mb-4 flex items-center justify-between gap-4">
+                  <div className="flex items-center justify-between gap-4">
                     <div>
                     </div>
                     {isPending ? (
@@ -388,26 +396,28 @@ export function ReviewPage() {
                     ) : null}
                   </div>
 
-                  <div className="grid grid-cols-4 gap-3">
-                    {ratingButtons.map((button) => {
-                      const previewNow = new Date()
-                      const projectedCard = scheduleReview(currentCard, button.rating, previewNow)
-                      const projectedLabel = formatIntervalFromReviewDate(projectedCard.nextReviewDate, previewNow)
+                  <div className="review-action-bar">
+                    <div className="grid grid-cols-2 gap-3 sm:grid-cols-4">
+                      {ratingButtons.map((button) => {
+                        const previewNow = new Date()
+                        const projectedCard = scheduleReview(currentCard, button.rating, previewNow)
+                        const projectedLabel = formatIntervalFromReviewDate(projectedCard.nextReviewDate, previewNow)
 
-                      return (
-                        <button
-                          key={button.label}
-                          type="button"
-                          onClick={() => submitRating(button.rating)}
-                          className={`cursor-pointer rounded-[1.35rem] p-4 text-center transition shadow-sm hover:-translate-y-0.5 hover:shadow-md ${button.className}`}
-                        >
-                          <div className="flex items-center justify-center gap-2">
-                            <span className="text-base font-semibold">{button.label}</span>
-                          </div>
-                          <p className="mt-1 text-base font-semibold">{projectedLabel}</p>
-                        </button>
-                      )
-                    })}
+                        return (
+                          <button
+                            key={button.label}
+                            type="button"
+                            onClick={() => submitRating(button.rating)}
+                            className={`cursor-pointer rounded-[1.35rem] p-4 text-center transition shadow-sm hover:-translate-y-0.5 hover:shadow-md ${button.className}`}
+                          >
+                            <div className="flex items-center justify-center gap-2">
+                              <span className="text-base font-semibold">{button.label}</span>
+                            </div>
+                            <p className="mt-1 text-base font-semibold">{projectedLabel}</p>
+                          </button>
+                        )
+                      })}
+                    </div>
                   </div>
                 </div>
               )}
