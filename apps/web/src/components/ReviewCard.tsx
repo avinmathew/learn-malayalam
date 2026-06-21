@@ -23,6 +23,8 @@ export function ReviewCard({ card, flipped, onFlip, onPlayAudio }: ReviewCardPro
   const meaningText = card.meaning || card.back
   const meaningLabel = isReverseCard ? 'English prompt' : card.type === 'phrase' ? 'English translation' : card.type === 'letter' ? 'Sound' : 'Meaning'
   const transliterationLabel = card.type === 'phrase' ? 'Manglish' : 'Transliteration'
+  const showTransliteration = card.type !== 'letter' && Boolean(card.transliteration)
+  const cardHeightClassName = card.type === 'letter' ? 'h-[24rem] sm:h-[25rem]' : 'h-[27rem]'
   const pointerStartRef = useRef<{ pointerId: number; x: number; y: number; time: number } | null>(null)
   const showImage = card.type === 'vocab' && Boolean(card.imagePath)
   const imagePath = resolveAppAssetPath(card.imagePath)
@@ -52,7 +54,7 @@ export function ReviewCard({ card, flipped, onFlip, onPlayAudio }: ReviewCardPro
           tabIndex={0}
           aria-label="Flip the current flashcard"
           data-flipped={flipped}
-          className="flashcard h-[29rem] cursor-pointer rounded-[2rem]"
+          className={`flashcard ${cardHeightClassName} cursor-pointer rounded-[2rem]`}
           onPointerDown={(event) => {
             if (isInteractiveTarget(event.target)) {
               pointerStartRef.current = null
@@ -154,8 +156,8 @@ export function ReviewCard({ card, flipped, onFlip, onPlayAudio }: ReviewCardPro
 
 
 
-              <div className="grid gap-3 sm:grid-cols-2 sm:gap-4">
-                {card.transliteration ? (
+              <div className={`grid gap-3 ${showTransliteration ? 'sm:grid-cols-2' : ''} sm:gap-4`}>
+                {showTransliteration ? (
                   <div className="rounded-[1.3rem] border border-white/10 bg-white/6 p-4">
                     <p className="text-xs font-semibold uppercase tracking-[0.22em] text-white/65">{transliterationLabel}</p>
                     <p className="review-card-copy mt-2 text-lg font-medium text-white/95">{card.transliteration}</p>
@@ -167,13 +169,6 @@ export function ReviewCard({ card, flipped, onFlip, onPlayAudio }: ReviewCardPro
                   <p className="review-card-copy mt-2 text-lg font-medium text-white/95">{meaningText}</p>
                 </div>
               </div>
-
-              {card.type === 'vocab' && card.category ? (
-                <div className="rounded-[1.3rem] border border-emerald-200/20 bg-emerald-300/10 px-4 py-3">
-                  <p className="text-xs font-semibold uppercase tracking-[0.22em] text-emerald-100/75">Category</p>
-                  <p className="mt-2 text-sm font-medium text-emerald-50">{card.category}</p>
-                </div>
-              ) : null}
 
               {card.example ? (
                 <div className="rounded-[1.3rem] border border-white/10 bg-white/6 p-4">

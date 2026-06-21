@@ -25,6 +25,12 @@ function getCardSummary(card: Card): string {
   return card.meaning || card.back
 }
 
+interface OutlineSection {
+  lessonId: string | null
+  cards: Card[]
+  title?: string
+}
+
 export function CourseOutlinePage() {
   const { cards } = useFlashcards()
   const { settings } = useUserSettings()
@@ -45,8 +51,24 @@ export function CourseOutlinePage() {
   const completedLessonIdSet = new Set(settings.courseProgress.completedLessonIds)
   const orderedCards = sortCardsByCurriculumOrder(cards.filter((card) => card.type === selectedDeck && card.direction !== 'reverse'))
   const selectedLesson = selectedLessonId ? getCourseLesson(selectedDeck, selectedLessonId) : null
-  const outlineSections = lessons.length === 0
-    ? [{ lessonId: null, cards: orderedCards }]
+  const outlineSections: OutlineSection[] = lessons.length === 0
+    ? selectedDeck === 'vocab'
+      ? Array.from(
+          orderedCards.reduce<Map<string, Card[]>>((sections, card) => {
+            const category = card.category?.trim() || 'Other'
+            const cardsInCategory = sections.get(category)
+
+            if (cardsInCategory) {
+              cardsInCategory.push(card)
+            } else {
+              sections.set(category, [card])
+            }
+
+            return sections
+          }, new Map()),
+          ([title, cards]) => ({ lessonId: null, title, cards }),
+        )
+      : [{ lessonId: null, cards: orderedCards }]
     : lessons.map((lesson, index) => {
       const nextStartOrder = lessons[index + 1]?.startOrder ?? Number.POSITIVE_INFINITY
 
@@ -119,6 +141,15 @@ export function CourseOutlinePage() {
                       </div>
                       <p className="mt-2 text-sm text-slate-700">{lesson.upNextLabel}</p>
                     </button>
+                  ) : null}
+
+                  {!lesson && section.title ? (
+                    <div className="flex items-center justify-between gap-3 rounded-[1.3rem] border border-slate-200/90 bg-slate-50/80 px-4 py-3">
+                      <h2 className="text-base font-semibold text-slate-950">{section.title}</h2>
+                      <span className="shrink-0 rounded-full bg-white px-3 py-1 text-xs font-semibold text-slate-500 shadow-sm">
+                        {section.cards.length} cards
+                      </span>
+                    </div>
                   ) : null}
 
                   <div className="space-y-2">
